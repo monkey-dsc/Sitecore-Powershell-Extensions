@@ -1,0 +1,794 @@
+<sitecore>
+  <phrase path="/sitecore/system/Modules/PowerShell/Console Colors" key="Console Colors" itemid="{42FFA0E6-F121-432A-821D-D40C53560563}" fieldid="__Display name" updated="20170102T175541Z">
+    <de-DE>Konsolenfarben</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Console Colors/Black" key="Black" itemid="{81184848-ECF9-4448-8515-DFDBC83AC41B}" fieldid="__Display name" updated="20160824T130159Z">
+    <de-DE>Schwarz</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Console Colors/Blue" key="Blue" itemid="{BD085463-EEB5-4BB8-8473-078943D7EFD8}" fieldid="__Display name" updated="20160824T130159Z">
+    <de-DE>Blau</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Console Colors/Cyan" key="Cyan" itemid="{E2E5425E-3524-472F-9F50-1EE7B383F315}" fieldid="__Display name" updated="20160824T130159Z">
+    <de-DE>Cyan</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Console Colors/DarkBlue" key="DarkBlue" itemid="{AB222740-C3B4-46CD-AF84-8B3BB4B9BA37}" fieldid="__Display name" updated="20160824T130159Z">
+    <de-DE>Dunkles Blau</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Console Colors/DarkCyan" key="DarkCyan" itemid="{23E6E1F1-66BF-4A4C-A1EB-B61A0EF2F6B4}" fieldid="__Display name" updated="20160824T130159Z">
+    <de-DE>Dunkles Cyan</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Console Colors/DarkGray" key="DarkGray" itemid="{B1893C54-8D20-4A6C-8A37-5B2887CFB6D7}" fieldid="__Display name" updated="20160824T130159Z">
+    <de-DE>Dunkles Grau</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Console Colors/DarkGreen" key="DarkGreen" itemid="{E517A968-CC59-425B-8BAA-6D26EBC1564D}" fieldid="__Display name" updated="20160824T130159Z">
+    <de-DE>Dunkles Grün</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Console Colors/DarkMagenta" key="DarkMagenta" itemid="{1454C6B5-BD50-4745-A569-644F4AD2622D}" fieldid="__Display name" updated="20160824T130159Z">
+    <de-DE>Dunkles Magenta</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Console Colors/DarkRed" key="DarkRed" itemid="{C9F7DFDB-A714-4B14-9F1C-5C31961D493E}" fieldid="__Display name" updated="20160824T130159Z">
+    <de-DE>Dunkles Rot</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Console Colors/DarkYellow" key="DarkYellow" itemid="{10752CF2-8D56-4DC6-9FFC-6F51DB195422}" fieldid="__Display name" updated="20160824T130159Z">
+    <de-DE>Dunkles Gelb</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Console Colors/Gray" key="Gray" itemid="{2146E874-FA2E-419F-8E29-29A72E0FCB4A}" fieldid="__Display name" updated="20160824T130159Z">
+    <de-DE>Grau</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Console Colors/Green" key="Green" itemid="{4BDA1126-D3D3-4831-8CA2-A913E01C6208}" fieldid="__Display name" updated="20160824T130159Z">
+    <de-DE>Grün</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Console Colors/Magenta" key="Magenta" itemid="{31509572-F2A3-455B-887A-D67EE25151AB}" fieldid="__Display name" updated="20160824T130159Z">
+    <de-DE>Magenta</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Console Colors/Red" key="Red" itemid="{0E7B2B4A-1E41-48D7-8063-FC1C1E00C2E5}" fieldid="__Display name" updated="20160824T130159Z">
+    <de-DE>Rot</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Console Colors/White" key="White" itemid="{711AFE32-3147-41F4-81B7-821CFCF45079}" fieldid="__Display name" updated="20160824T130159Z">
+    <de-DE>Weiss</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Console Colors/Yellow" key="Yellow" itemid="{EAF596B9-BCF7-48AA-939C-A15604D6D98F}" fieldid="__Display name" updated="20160824T130159Z">
+    <de-DE>Gelb</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Fonts" key="Fonts" itemid="{4406B665-C086-4D1F-9048-0E62A9863755}" fieldid="__Display name" updated="20160824T130243Z">
+    <de-DE>Schriftarten</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library" key="Script Library" itemid="{A3572733-5062-43E9-A447-54698BC1C637}" fieldid="__Display name" updated="20170102T175736Z">
+    <de-DE>Skript Bibliothek</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Authoring Instrumentation/Content Editor/Context Menu" key="Context Menu" itemid="{47BA2B5B-36CB-4061-9DC0-BEE85700780E}" fieldid="__Display name" updated="20160823T113453Z">
+    <de-DE>Kontextmenü</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Authoring Instrumentation/Content Editor/Context Menu/Recent Author Activity" key="Recent Author Activity" itemid="{20D867D5-584B-4494-99A8-0511667E9BEB}" fieldid="__Display name" updated="20150125T225748Z">
+    <de-DE>Neueste Autorenaktivität</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Authoring Instrumentation/Content Editor/Context Menu/Author Statistics" key="Author Statistics" itemid="{1876D433-4FAE-46B2-B2EF-AAA0FDA110E7}" fieldid="__Display name" updated="20130915T232701Z">
+    <de-DE>Autoren-Statistik</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Authoring Instrumentation/Content Editor/Context Menu/Publish My Items" key="Publish My Items" itemid="{F8573830-393A-45B1-8856-DCCE48EB5E92}" fieldid="__Display name" updated="20130723T085941Z">
+    <de-DE>Meine Items publizieren</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Automatically show quick info section" key="Automatically show quick info section" itemid="{6ECE94B3-78CF-4BE0-9BBD-1C9590DF3925}" fieldid="__Display name" updated="20161130T224557Z">
+    <de-DE> Automatische Anzeige des Quick-Info-Bereichs</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Automatically show quick info section/Pipelines/LoggedIn/Automatically show quick info" key="Automatically show quick info" itemid="{A870E3EA-A75E-447C-AC9C-00EB74EA7268}" fieldid="__Display name" updated="20150530T150825Z">
+    <de-DE>Automatisch Quickinfo anzeigen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Content Reports" key="Content Reports" itemid="{482BE2EB-5CCD-4E6F-A63C-51FAC5B34B7A}" fieldid="__Display name" updated="20161130T224557Z">
+    <de-DE>Inhaltsberichte</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Content Reports/Internal" key="Internal" itemid="{89278B36-AD44-4234-81FD-F50951F69554}" fieldid="__Display name" updated="20170309T110143Z">
+    <de-DE>Intern</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Content Reports/Internal/List View" key="List View" itemid="{2E39FEF5-889B-49B4-BE77-79294EFAAF9D}" fieldid="__Display name" updated="20170309T110144Z">
+    <de-DE>Listenansicht</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Content Reports/Internal/List View/Ribbon/Site" key="Site" itemid="{F6129B06-151D-40DB-ABBD-53E41727CACA}" fieldid="__Display name" updated="20170309T110210Z">
+    <de-DE>Seite</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Content Reports/Internal/List View/Ribbon/Site/Open" key="Open" itemid="{A328DBB5-DC6C-4307-AD7C-BC1E330F011A}" fieldid="__Display name" updated="20160703T203730Z">
+    <de-DE>Öffnen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Content Reports/Reports" key="Reports" itemid="{C34E89D5-7F6C-4977-967B-2E5C886C27E0}" fieldid="__Display name" updated="20150613T194705Z">
+    <de-DE>Reporte</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Content Reports/Reports/Configuration Audit" key="Configuration Audit" itemid="{0ACBFEA0-C6B1-4263-993F-5BCB231A1FFF}" fieldid="__Display name" updated="20150613T194822Z">
+    <de-DE>Konfigurationsüberwachung</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Content Reports/Reports/Configuration Audit/Find all Sitecore PowerShell Commands" key="Find all Sitecore PowerShell Commands" itemid="{29F0D26E-69AF-4A1D-B83B-58D3A9BB3B20}" fieldid="__Display name" updated="20170102T220336Z">
+    <de-DE>Finde alle Sitecore PowerShell-Befehle</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Content Reports/Reports/Configuration Audit/Find site domain conflicts" key="Find site domain conflicts" itemid="{783CAF2B-E77A-486C-AFD0-B33558CAC066}" fieldid="__Display name" updated="20170310T095119Z">
+    <de-DE>Finde Website-Domänen Konflikte</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Content Reports/Reports/Content Audit" key="Content Audit" itemid="{66D85BC1-4DC1-4172-94C0-FD6CD5D8E47A}" fieldid="__Display name" updated="20150613T194837Z">
+    <de-DE>Inhaltsüberwachung</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Content Reports/Reports/Content Audit/Aliases" key="Aliases" itemid="{8193727A-D008-4634-AE9D-6A2CBBF8C856}" fieldid="__Display name" updated="20160410T083209Z">
+    <de-DE>Aliase</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Content Reports/Reports/Content Audit/Broken Links" key="Broken Links" itemid="{49C76CD6-5D9F-45B3-8799-84B9D0E59C1C}" fieldid="__Display name" updated="20161016T204450Z">
+    <de-DE>Defekte Links</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Content Reports/Reports/Content Audit/Items have no publishable version" key="Items have no publishable version" itemid="{3BE04279-3707-4D78-ACC9-D1AFB33D19E6}" fieldid="__Display name" updated="20170102T221128Z">
+    <de-DE>Elemente haben keine publizierbare Version</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Content Reports/Reports/Content Audit/Items last updated after date" key="Items last updated after date" itemid="{4842F9A8-5F78-41D6-ABC2-A33760F41718}" fieldid="__Display name" updated="20170102T221307Z">
+    <de-DE>Elemente zuletzt aktualisiert nach Datum</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Content Reports/Reports/Content Audit/Items unpublished in one or more targets" key="Items unpublished in one or more targets" itemid="{4E530464-6DEA-493B-B3B3-A85E88E2D5FC}" fieldid="__Display name" updated="20170102T221457Z">
+    <de-DE>Elemente depubliziert in einem oder mehreren Zielen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Content Reports/Reports/Content Audit/Items with aliases" key="Items with aliases" itemid="{4ADB96CA-9011-4888-9500-8E9A891CB0B3}" fieldid="__Display name" updated="20170102T221555Z">
+    <de-DE>Elemente mit Aliasen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Content Reports/Reports/Content Audit/Items with security for an account" key="Items with security for an account" itemid="{C05DB55E-CAEF-40B8-9F46-7195339B51B7}" fieldid="__Display name" updated="20170102T222517Z">
+    <de-DE>Elemente mit Sicherheitseinstellungen für einen Account</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Content Reports/Reports/Content Audit/Items with template" key="Items with template" itemid="{701177E5-09EF-4B40-9E33-C12FA925EA46}" fieldid="__Display name" updated="20170102T222959Z">
+    <de-DE>Elemente mit Template</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Content Reports/Reports/Content Audit/Items with tokens in fields" key="Items with tokens in fields" itemid="{0C97AC4B-647F-4012-A11D-608A4BC39045}" fieldid="__Display name" updated="20170102T223112Z">
+    <de-DE>Elemente mit Tokens in Feldern</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Content Reports/Reports/Content Audit/Locked Items" key="Locked Items" itemid="{59E3E841-A68B-42D2-B52B-D0EFE822435A}" fieldid="__Display name" updated="20170102T223853Z">
+    <de-DE>Gesperrte Elemente</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Content Reports/Reports/Content Audit/Stale workflow items" key="Stale workflow items" itemid="{A068E625-4CB9-4BF9-BFED-F8D93225E6C9}" fieldid="__Display name" updated="20170102T223943Z">
+    <de-DE>Veraltete Workflow-Elemente</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Content Reports/Reports/Media Audit" key="Media Audit" itemid="{F2E422C9-726E-4A6D-B992-71945BBE2F0A}" fieldid="__Display name" updated="20160704T223509Z">
+    <de-DE>Medienüberwachung</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Content Reports/Reports/Media Audit/Database based media items" key="Database based media items" itemid="{46137F1E-0987-4B6E-AE82-02B71F3BFCEF}" fieldid="__Display name" updated="20160703T223406Z">
+    <de-DE>Datenbankbasierte Medienelemente</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Content Reports/Reports/Media Audit/File based media items" key="File based media items" itemid="{2C3337FF-E4D2-4281-A250-97383D75338F}" fieldid="__Display name" updated="20170102T225042Z">
+    <de-DE>Dateibasierte Medienelemente</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Content Reports/Reports/Media Audit/Image items with empty Alt field" key="Image items with empty Alt field" itemid="{3C3CEE69-83B7-4629-A7A6-1A8145C3E101}" fieldid="__Display name" updated="20170102T225028Z">
+    <de-DE>Bildelemente mit leerem Alt-Feld</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Content Reports/Reports/Media Audit/Media items last updated after date" key="Media items last updated after date" itemid="{649AA26D-8532-4CAF-94DC-3DAA4980811A}" fieldid="__Display name" updated="20170102T225010Z">
+    <de-DE>Medienelemente zuletzt aktualisiert nach Datum</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Content Reports/Reports/Media Audit/Media items not used by content items" key="Media items not used by content items" itemid="{9052B33D-52DD-4C99-BE20-5D0ED2135ECF}" fieldid="__Display name" updated="20170102T224935Z">
+    <de-DE>Medienelemente die nicht von Inhaltselementen verwendet werden</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Content Reports/Reports/Media Audit/Media items with obsolete versions" key="Media items with obsolete versions" itemid="{0C204443-C3D1-4AB7-A79A-52180E76060C}" fieldid="__Display name" updated="20170102T224916Z">
+    <de-DE>Medienelemente mit veralteten Versionen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Content Reports/Reports/Media Audit/Media items with warnings" key="Media items with warnings" itemid="{DF0FB7FB-C4EF-40AA-89BA-3DB8A7EC66B3}" fieldid="__Display name" updated="20170102T224900Z">
+    <de-DE>Medienelemente mit Warnungen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Content Reports/Reports/Media Audit/Media items without associated files" key="Media items without associated files" itemid="{6192B98A-E907-440B-9E46-15E09759DAD9}" fieldid="__Display name" updated="20170102T224838Z">
+    <de-DE>Medienelemente ohne zugehörige Dateien</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Content Reports/Reports/Media Audit/Unused media items" key="Unused media items" itemid="{1B9B69BB-9874-4418-89DF-C411E7A2E6CA}" fieldid="__Display name" updated="20170102T224748Z">
+    <de-DE>Nicht verwendete Medienelemente</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Content Reports/Reports/Solution Audit" key="Solution Audit" itemid="{A608590E-6B4D-4BD0-BEBE-9753037072CC}" fieldid="__Display name" updated="20150613T194855Z">
+    <de-DE>Lösungsüberwachung</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Content Reports/Reports/Solution Audit/Apply security to roles rather than users" key="Apply security to roles rather than users" itemid="{CA464755-FCD5-434B-A989-054C512E2DEE}" fieldid="__Display name" updated="20170102T225411Z">
+    <de-DE>Wenden Sie Sicherheit auf Rollen und nicht auf Benutzer an</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Content Reports/Reports/Solution Audit/Assign icons to templates" key="Assign icons to templates" itemid="{E3BFF71B-2E1E-4DC4-BA01-7746F621CDAA}" fieldid="__Display name" updated="20170102T225721Z">
+    <de-DE>Icons den Vorlagen zuweisen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Content Reports/Reports/Solution Audit/Break inheritance - do not deny" key="Break inheritance - do not deny" itemid="{8ECC55A1-B9D9-418F-9ECC-0D25BC59121F}" fieldid="__Display name" updated="20170102T225913Z">
+    <de-DE>Vererbung unterbrechen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Content Reports/Reports/Solution Audit/How many of each custom template is used" key="How many of each custom template is used" itemid="{4ED80E5E-F349-4642-BFCA-D52BD30EAF56}" fieldid="__Display name" updated="20170228T145947Z">
+    <de-DE> Wie viele von jeder benutzerdefinierten Vorlage werden verwendet?</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Content Reports/Reports/Solution Audit/How many of which field types are used" key="How many of which field types are used" itemid="{558614B3-03C1-4E7B-86DE-AB5508C990EF}" fieldid="__Display name" updated="20170102T230218Z">
+    <de-DE>Wie viele Feldtypen werden verwendet?</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Content Reports/Reports/Solution Audit/Image Fields" key="Image Fields" itemid="{DE79022D-391F-4EE5-AF89-22AA6A6FE311}" fieldid="__Display name" updated="20170102T230524Z">
+    <de-DE>Bild-Felder</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Content Reports/Reports/Solution Audit/Leverage the presentation component parameters" key="Leverage the presentation component parameters" itemid="{9BB0D6B2-8351-48DF-812F-BECDE518CA79}" fieldid="__Display name" updated="20170102T230721Z">
+    <de-DE>Parameter der Präsentationskomponente benutzen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Content Reports/Reports/Solution Audit/Limit number of versions" key="Limit number of versions" itemid="{410774B5-4162-43A1-8A0C-53CEFFB81638}" fieldid="__Display name" updated="20170102T230935Z">
+    <de-DE>Anzahl an Versionen limitieren</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Content Reports/Reports/Solution Audit/Limit the number of items under any given node" key="Limit the number of items under any given node" itemid="{89EA962C-DA7D-4316-A492-CACA879CA5DC}" fieldid="__Display name" updated="20170102T231200Z">
+    <de-DE>Anzahl der Elemente unter einem bestimmten Knoten begrenzen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Content Reports/Reports/Solution Audit/Make good use of inheritance" key="Make good use of inheritance" itemid="{2CB400D1-AEE0-437D-8ED7-590B33990F5C}" fieldid="__Display name" updated="20170102T231306Z">
+    <de-DE>Vererbung gut ausnutzen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Content Reports/Reports/Solution Audit/Standard Values define settings" key="Standard Values define settings" itemid="{A008E2A4-625F-40A8-B476-AC798EEEB0A4}" fieldid="__Display name" updated="20170102T231532Z">
+    <de-DE>Standardwerte definieren Einstellungen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Content Reports/Reports/Solution Audit/TreelistEx instead of Treelist for big trees" key="TreelistEx instead of Treelist for big trees" itemid="{5EDE870F-3D48-4753-B763-77E511AC464C}" fieldid="__Display name" updated="20170102T231934Z">
+    <de-DE>TreelistEx anstelle von Treelist für große Bäume</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Content Reports/Reports/Solution Audit/Use special tree syntax" key="Use special tree syntax" itemid="{7AE883C7-E0DC-4C87-BF57-15558ADF1A2B}" fieldid="__Display name" updated="20170102T232224Z">
+    <de-DE>Spezielle Baumsyntax verwenden</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Content Reports/Reports/Solution Audit/Use the Help and Title for fields" key="Use the Help and Title for fields" itemid="{5E0F7528-C46F-417A-8402-FD0C2C6E482D}" fieldid="__Display name" updated="20170102T232436Z">
+    <de-DE>Felder Hilfe und Titel verwenden</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Copy Renderings" key="Copy Renderings" itemid="{5DB89568-68EB-4B85-B8CD-E6EA750094EA}" fieldid="__Display name" updated="20161130T224557Z">
+    <de-DE>Renderings kopieren</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Copy Renderings/Content Editor/Context Menu" key="Context Menu" itemid="{B2F9BEA1-9C36-4D7B-B343-AC7E8D6D224C}" fieldid="__Display name" updated="20141125T010549Z">
+    <de-DE>Kontextmenü</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Copy Renderings/Content Editor/Context Menu/Layout/Copy Renderings" key="Copy Renderings" itemid="{CC45B728-3141-4B2D-BC6E-CA74EE04AED2}" fieldid="__Display name" updated="20170222T084213Z">
+    <de-DE>Renderings kopieren</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Copy Renderings/Content Editor/Context Menu/Layout/Paste Renderings" key="Paste Renderings" itemid="{AFA7A862-9433-4EFE-ACA4-487A35CA0B6C}" fieldid="__Display name" updated="20170222T084524Z">
+    <de-DE>Renderings einfügen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Enforce user password expiration" key="Enforce user password expiration" itemid="{3CAB0CA7-668B-4863-B53F-20475B45DFA5}" fieldid="__Display name" updated="20161130T224557Z">
+    <de-DE>Erzwingen des Ablaufs des Benutzerkennworts</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Enforce user password expiration/Pipelines/LoggingIn/Enforce password expiration" key="Enforce password expiration" itemid="{7AE1571F-C43B-4D7A-81B7-D2FD74B5F94D}" fieldid="__Display name" updated="20150530T152233Z">
+    <de-DE>Erzwinge Passwortablauf</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Example Event Handlers/Event Handlers/Item" key="Item" itemid="{F77CA396-7463-4B75-AA2C-2DF61A3D6EC5}" fieldid="__Display name" updated="20130525T224958Z">
+    <de-DE>Element</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Example Event Handlers/Event Handlers/Item/Added" key="Added" itemid="{C87996EB-0E1E-46A0-8D84-57BAA6644164}" fieldid="__Display name" updated="20130525T224958Z">
+    <de-DE>Hinzugefügt</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Example Event Handlers/Event Handlers/Item/Added/Save Log" key="Save Log" itemid="{387DDB74-E4FE-4C87-ABD5-9B63EECF8A84}" fieldid="__Display name" updated="20141227T165155Z">
+    <de-DE>Log speichern</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Example Event Handlers/Event Handlers/Item/Renamed" key="Renamed" itemid="{289AD370-F9E3-48C6-B8E2-314AAD6E6048}" fieldid="__Display name" updated="20130525T225002Z">
+    <de-DE>Umbenannt</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Example Event Handlers/Event Handlers/Item/Renamed/Save Log" key="Save Log" itemid="{FABA92C1-E75B-4576-9EAE-97F2C60BE596}" fieldid="__Display name" updated="20141227T165155Z">
+    <de-DE>Log speichern</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Getting Started/Content interrogation/Audit templates with layout" key="Audit templates with layout" itemid="{7CC5F576-FA33-4773-B94E-22DC9CEEAB8D}" fieldid="__Display name" updated="20150203T021054Z">
+    <de-DE>Vorlagen mit Layout überwachen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Getting Started/Content Maintenance/Change item template en masse" key="Change item template en masse" itemid="{50456B81-0FB3-4705-BC61-E6FDD2CF98A3}" fieldid="__Display name" updated="20150203T015938Z">
+    <de-DE>Massen Vorlagenänderung</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Getting Started/Script Testing/Long Running Script with Progress Demo" key="Long Running Script with Progress Demo" itemid="{88CAC390-7A86-40BF-BFC5-D40C2992258D}" fieldid="__Display name" updated="20150223T172855Z">
+    <de-DE>Langlaufendes Skript mit Fortschritt Demo</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Getting Started/Script Testing/Long Running Script - Sample" key="Long Running Script - Sample" itemid="{3EB28CCB-E066-4F8E-947D-B76A976E205E}" fieldid="__Display name" updated="20141227T165157Z">
+    <de-DE>Langlaufendes Skript - Beispiel</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Getting Started/User Interaction/Confirm a choice with ShowModalDialog" key="Confirm a choice with ShowModalDialog" itemid="{0190469E-0EF3-40E6-9BEE-94559A07986B}" fieldid="__Display name" updated="20161122T012552Z">
+    <de-DE>Auswahl bestätigen mit ShowModalDialog</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Getting Started/User Interaction/Execute Sitecore shell command" key="Execute Sitecore shell command" itemid="{DA015A99-05D3-484D-945C-41AC5C96A083}" fieldid="__Display name" updated="20161121T232746Z">
+    <de-DE>Sitecore Shell-Kommando ausführen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Getting Started/Web API/ChildrenAsHtml" key="ChildrenAsHtml" itemid="{81648EA7-09D5-479D-8E78-D540EEE29106}" fieldid="__Display name" updated="20151231T151232Z">
+    <de-DE>Kinder als HTML</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Getting Started/Web API/ChildrenAsJson" key="ChildrenAsJson" itemid="{28CE9247-7245-424E-90D8-37B487E225FE}" fieldid="__Display name" updated="20151231T151450Z">
+    <de-DE>Kinder als JSON</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Getting Started/Web API/ChildrenAsXml" key="ChildrenAsXml" itemid="{4CF65BEF-C2D9-426D-B117-C16E5BAB8245}" fieldid="__Display name" updated="20151231T152412Z">
+    <de-DE>Kinder als XML</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Getting Started/Web API/HomeAndDescendants" key="HomeAndDescendants" itemid="{A9284795-37F9-438F-B3EC-D1C8790620C9}" fieldid="__Display name" updated="20150712T012101Z">
+    <de-DE>Home und Nachfolger</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Index On Demand" key="Index On Demand" itemid="{A80E51B8-AC9E-45EA-8CF4-A33135ED190B}" fieldid="__Display name" updated="20161130T224557Z">
+    <de-DE>Index auf Anfrage</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Index On Demand/Content Editor/Context Menu" key="Context Menu" itemid="{08109391-3B69-4510-B06B-477B7F54A0CE}" fieldid="__Display name" updated="20150201T175254Z">
+    <de-DE>Kontextmenü</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Index On Demand/Content Editor/Context Menu/Index this" key="Index this" itemid="{374F14C6-867A-47F2-B5E2-E9A7224F33A0}" fieldid="__Display name" updated="20151025T023955Z">
+    <de-DE>Das Indizieren</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Index On Demand/Content Editor/Context Menu/Index this and descendants" key="Index this and descendants" itemid="{0CBA0962-ED5F-4D05-8560-849790209392}" fieldid="__Display name" updated="20151025T024005Z">
+    <de-DE>Das und Nachfolger indizieren</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/License Expiration" key="License Expiration" itemid="{05A448FF-22B3-4449-93A7-9977F94D8941}" fieldid="__Display name" updated="20161130T224557Z">
+    <de-DE>Lizenzablauf</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/License Expiration/Content Editor/Warning" key="Warning" itemid="{B47C0F43-CA75-4857-A916-197E0F34928E}" fieldid="__Display name" updated="20150601T211816Z">
+    <de-DE>Warnung</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/License Expiration/Content Editor/Warning/Expiring License" key="Expiring License" itemid="{9DCD1991-E1E0-4357-9B37-D23E9C6F9395}" fieldid="__Display name" updated="20150609T173113Z">
+    <de-DE>Auslaufende Lizenz</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/License Expiration/Page Editor/Notification" key="Notification" itemid="{6A638875-D3EF-48C9-848A-B3A8278ACC31}" fieldid="__Display name" updated="20150608T195546Z">
+    <de-DE>Benachrichtigung</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/License Expiration/Page Editor/Notification/Expiring License" key="Expiring License" itemid="{C5DE4EA2-408A-4985-B7E6-342F97D87673}" fieldid="__Display name" updated="20150608T234943Z">
+    <de-DE>Auslaufende Lizenz</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/License Expiration/Tasks" key="Tasks" itemid="{464A8F5E-4C92-49DC-BD1C-1962FD56BF43}" fieldid="__Display name" updated="20150531T204713Z">
+    <de-DE>Aufgaben</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/License Expiration/Tasks/License Expiration Notification" key="License Expiration Notification" itemid="{ABFF7575-E042-4E83-B073-CCC079F0C6E3}" fieldid="__Display name" updated="20150601T002923Z">
+    <de-DE>Lizenzablaufbenachrichtigung</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Media Library Maintenance" key="Media Library Maintenance" itemid="{F71B2851-BBE3-4F7C-B549-79A8DB35A272}" fieldid="__Display name" updated="20161130T224557Z">
+    <de-DE>Medienbibliothek Wartung</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Media Library Maintenance/Content Editor/Context Menu" key="Context Menu" itemid="{3920D8DF-54F4-4FF1-BB08-E6AB2F393BE5}" fieldid="__Display name" updated="20141129T152915Z">
+    <de-DE>Kontextmenü</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Media Library Maintenance/Tasks" key="Tasks" itemid="{B9A75C9F-B578-4833-99FB-C4158BC8768B}" fieldid="__Display name" updated="20150530T153336Z">
+    <de-DE>Aufgaben</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Media Library Maintenance/Tasks/Delete unused media items older than 30 days" key="Delete unused media items older than 30 days" itemid="{86FBEE0D-6190-40BA-B045-511969B65745}" fieldid="__Display name" updated="20150530T153342Z">
+    <de-DE>Lösche nicht verwendete Medienelemente, die älter als 30 Tage sind</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Package Generator" key="Package Generator" itemid="{8E4E2BE8-5D9F-4934-9421-0A82F1664D94}" fieldid="__Display name" updated="20161130T224557Z">
+    <de-DE>Paket-Generator</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Package Generator/Content Editor/Context Menu" key="Context Menu" itemid="{2990210E-8E4F-4874-91E8-565017DC55DE}" fieldid="__Display name" updated="20141129T152723Z">
+    <de-DE>Kontextmenü</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Package Generator/Content Editor/Context Menu/Packaging" key="Packaging" itemid="{C83CC1EE-A860-4E64-9715-E9C3BBB885F0}" fieldid="__Display name" updated="20141129T152732Z">
+    <de-DE>Pakete bauen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Package Generator/Content Editor/Context Menu/Packaging/Start New Package" key="Start New Package" itemid="{E6F6FCAA-644A-418C-A5F2-19352D66A260}" fieldid="__Display name" updated="20170222T085244Z">
+    <de-DE>Neues Paket erstellen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Package Generator/Content Editor/Context Menu/Packaging/Add Item to Package" key="Add Item to Package" itemid="{A6D3CE99-9BDE-4344-911D-CFB3FB742DE6}" fieldid="__Display name" updated="20170222T091550Z">
+    <de-DE>Element zum Paket hinzufügen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Package Generator/Content Editor/Context Menu/Packaging/Add Tree to Package" key="Add Tree to Package" itemid="{E6B36111-8411-414B-A7E9-58E75B365EA7}" fieldid="__Display name" updated="20170222T091517Z">
+    <de-DE>Baum zum Paket hinzufügen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Package Generator/Content Editor/Context Menu/Packaging/Download Package" key="Download Package" itemid="{9C3AF32E-8104-465A-9843-56EDC2B024BB}" fieldid="__Display name" updated="20170222T080525Z">
+    <de-DE>Paket herunterladen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Package Generator/Content Editor/Context Menu/Packaging/Quick Download Tree as Package" key="Quick Download Tree as Package" itemid="{B9B4D349-D805-4743-A5FE-787EFAF52DDD}" fieldid="__Display name" updated="20170222T082255Z">
+    <de-DE>Schnelldownload des Baumes als Paket</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Package Generator/Toolbox/Create Anti-Package" key="Create Anti-Package" itemid="{D977A9DF-B38D-490F-A490-CBA48AA37F09}" fieldid="__Display name" updated="20160523T001229Z">
+    <de-DE>Anti-Paket erstellen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Publishing Status Gutter" key="Publishing Status Gutter" itemid="{D9B152A2-0503-45EF-ACE0-AAFE117120A7}" fieldid="__Display name" updated="20161130T224557Z">
+    <de-DE>Publizierungsstatus Steg</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Publishing Status Gutter/Content Editor/Gutters" key="Gutters" itemid="{DFB9F219-44A0-4E62-A3F9-832DE0BC478C}" fieldid="__Display name" updated="20141129T150215Z">
+    <de-DE>Stege</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Publishing Status Gutter/Content Editor/Gutters/Publishing Status" key="Publishing Status" itemid="{8A03D17C-9FC0-4D18-B231-7F1309BA5E87}" fieldid="__Display name" updated="20150613T165302Z">
+    <de-DE>Publizierungsstatus</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Random desktop background" key="Random desktop background" itemid="{72B588DF-B675-471F-A8A5-814BD93A3EF0}" fieldid="__Display name" updated="20161130T224557Z">
+    <de-DE>Zufälliger Schreibtischhintergrund</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Random desktop background/Pipelines/LoggedIn/Random desktop background image" key="Random desktop background image" itemid="{B71A37C2-7673-44C8-9C58-0E923552DB04}" fieldid="__Display name" updated="20150530T144440Z">
+    <de-DE>Zufälliges Schreibtischhintergrundbild</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/System Maintenance" key="System Maintenance" itemid="{49280D23-D313-4AB9-AB1C-CF245D41E44A}" fieldid="__Display name" updated="20161130T224557Z">
+    <de-DE>System Wartung</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/System Maintenance/Control Panel/Administration/Clean up deleted items" key="Clean up deleted items" itemid="{C2BBD223-5189-42ED-B6E9-5591E69CD0C7}" fieldid="__Display name" updated="20150128T031330Z">
+    <de-DE>Gelöschte Elemente aufräumen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/System Maintenance/Control Panel/Database" key="Database" itemid="{9197DAE0-2896-4F5A-B122-3AD96372E4D5}" fieldid="__Display name" updated="20130713T135336Z">
+    <de-DE>Datenbank</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/System Maintenance/Control Panel/Reports" key="Reports" itemid="{4655F9C8-16BE-4343-A101-1473823EB017}" fieldid="__Display name" updated="20130713T135422Z">
+    <de-DE>Reporte</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/System Maintenance/Control Panel/Reports/Download Sitecore logs" key="Download Sitecore logs" itemid="{66FB1E5C-7E32-4C5B-8648-7B30FADAE2BE}" fieldid="__Display name" updated="20150128T031832Z">
+    <de-DE>Sitecore-Logs herunterladen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/System Maintenance/Tasks" key="Tasks" itemid="{E96411FE-97F1-47AC-80E3-9315593E7FEB}" fieldid="__Display name" updated="20150201T204536Z">
+    <de-DE>Aufgaben</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/System Maintenance/Tasks/Archive Sitecore logs" key="Archive Sitecore logs" itemid="{B6FB54C1-5890-4898-8F7F-582FC793A2E0}" fieldid="__Display name" updated="20150719T173916Z">
+    <de-DE>Archiviere Sitecore Logs</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/System Maintenance/Tasks/Clean up database tables" key="Clean up database tables" itemid="{33AA183D-7B0B-43C3-9833-4D530D49CED8}" fieldid="__Display name" updated="20150703T002600Z">
+    <de-DE>Datenbanktabellen bereinigen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/System Maintenance/Tasks/Clean up databases" key="Clean up databases" itemid="{DC7387B0-4909-4974-AE9F-68873702CB05}" fieldid="__Display name" updated="20150516T225634Z">
+    <de-DE>Datenbanken bereinigen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/System Maintenance/Tasks/Clean up deleted items older than 30 days" key="Clean up deleted items older than 30 days" itemid="{65900675-DB8C-4BB5-8E39-E9485DA8C477}" fieldid="__Display name" updated="20150203T012340Z">
+    <de-DE>Gelöschte Elemente bereinigen, die älter als 30 Tage sind</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/System Maintenance/Tasks/Clean up link databases" key="Clean up link databases" itemid="{E7AB8E76-96F0-4A8D-B80B-D9971515D1E4}" fieldid="__Display name" updated="20150516T225703Z">
+    <de-DE>Link-Datenbanken bereinigen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/System Maintenance/Tasks/Rebuild content search indexes" key="Rebuild content search indexes" itemid="{F993EB2A-6BA8-4D36-BC05-E7340FDF1B28}" fieldid="__Display name" updated="20161024T054248Z">
+    <de-DE>Inhaltssuchindizes neu erstellen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Task Management" key="Task Management" itemid="{A84C5676-0E2B-401E-9C65-24DF7B55E6C1}" fieldid="__Display name" updated="20161130T224557Z">
+    <de-DE>Aufgaben-Management</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Task Management/Content Editor/Context Menu" key="Context Menu" itemid="{E472779C-C39A-4C80-8F51-D28E64E6AD07}" fieldid="__Display name" updated="20141126T115246Z">
+    <de-DE>Kontextmenü</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Task Management/Content Editor/Context Menu/Edit Task Schedule" key="Edit Task Schedule" itemid="{0C430EA2-AB92-4BEF-9982-C559CF3E4DC2}" fieldid="__Display name" updated="20150215T163207Z">
+    <de-DE>Aufgabenplan bearbeiten</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Task Management/Content Editor/Context Menu/Run Task Schedule" key="Run Task Schedule" itemid="{D00BD134-EB15-41A7-BEF1-E6455C6BC9AC}" fieldid="__Display name" updated="20150214T163007Z">
+    <de-DE>Aufgabenplan ausführen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Task Management/Content Editor/Insert Item" key="Insert Item" itemid="{D77DBED0-43A0-4405-A6B0-BF29618D6CB4}" fieldid="__Display name" updated="20150623T082914Z">
+    <de-DE>Element einfügen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Task Management/Content Editor/Insert Item/PowerShell Scripted Task Schedule" key="PowerShell Scripted Task Schedule" itemid="{38C2F540-8609-4050-A60A-D7A914F5798C}" fieldid="__Display name" updated="20150623T082948Z">
+    <de-DE>PowerShell Skriptgesteuerter Aufgabenzeitplan</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Task Management/Functions" key="Functions" itemid="{33DD6099-7AA8-48B2-9183-C5A54D3A4F8C}" fieldid="__Display name" updated="20141203T020558Z">
+    <de-DE>Funktionen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Task Management/Functions/Edit-TaskSchedule" key="Edit-TaskSchedule" itemid="{44178C08-FBA0-44F5-BAC8-B73506693F4E}" fieldid="__Display name" updated="20170224T143448Z">
+    <de-DE>Aufgabenplan bearbeiten</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Task Management/Internal" key="Internal" itemid="{A6229810-F153-4696-A9A1-97D7ADB686D1}" fieldid="__Display name" updated="20141126T015413Z">
+    <de-DE>Intern</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Task Management/Internal/List View" key="List View" itemid="{C0F29EC2-1DDC-4625-AB50-B1E25C62D297}" fieldid="__Display name" updated="20141126T015425Z">
+    <de-DE>Listenansicht</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Task Management/Internal/List View/Ribbon/Item" key="Item" itemid="{4D8AF2C7-1AE4-409E-B0D5-10500DED0FDF}" fieldid="__Display name" updated="20141126T015456Z">
+    <de-DE>Element</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Task Management/Internal/List View/Ribbon/Item/Edit Schedule" key="Edit Schedule" itemid="{C17B827E-2FDC-4997-A2F7-A1831635D701}" fieldid="__Display name" updated="20150809T044550Z">
+    <de-DE>Aufgabenplan bearbeiten</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Task Management/Internal/List View/Ribbon/Item/Execute Now" key="Execute Now" itemid="{F738CE8E-F56B-479C-A6D0-5FEB1A94DECC}" fieldid="__Display name" updated="20141126T015512Z">
+    <de-DE>Jetzt ausführen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Task Management/Toolbox/Task Manager" key="Task Manager" itemid="{E68879C2-E532-442D-AD98-A9955F3BBC70}" fieldid="__Display name" updated="20150809T044519Z">
+    <de-DE>Aufgaben-Manager</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Unlock user items on logout" key="Unlock user items on logout" itemid="{65CA4381-8667-43D2-A723-0D8672DF3708}" fieldid="__Display name" updated="20161130T224557Z">
+    <de-DE>Benutzerelemente entsperren beim Abmelden</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Unlock user items on logout/Pipelines/Logout/Unlock user items" key="Unlock user items" itemid="{8D7EA08A-651B-4A33-89F8-C85B5C1E38B3}" fieldid="__Display name" updated="20150530T152741Z">
+    <de-DE>Benutzerelemente entsperren</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/User Management/Internal/List View/Ribbon/MembershipUserWrapper" key="MembershipUserWrapper" itemid="{87E1B7E9-50C5-4E7A-B7A0-E9E02310EBBB}" fieldid="__Display name" updated="20161016T184756Z">
+    <de-DE>Mitgliedschaft Benutzer Wrapper</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/User Management/Internal/List View/Ribbon/MembershipUserWrapper/Kick User" key="Kick User" itemid="{409D08B8-13C6-4425-89D7-54B097194CF6}" fieldid="__Display name" updated="20161016T180324Z">
+    <de-DE>Benutzer kicken</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/User Management/Internal/List View/Ribbon/Session" key="Session" itemid="{461323D0-0D35-43B0-A715-03F60D96421A}" fieldid="__Display name" updated="20141126T020735Z">
+    <de-DE>Sitzung</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/User Management/Internal/List View/Ribbon/Session/Kick User" key="Kick User" itemid="{BB607CB6-AB3B-45CD-93DF-2BAF257F3960}" fieldid="__Display name" updated="20141027T174118Z">
+    <de-DE>Benutzer kicken</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/User Management/Reports/Users/Recently logged in users" key="Recently logged in users" itemid="{13E1A607-6064-42B9-AA6F-BD245E1F3555}" fieldid="__Display name" updated="20161016T174440Z">
+    <de-DE>Zuletzt eingeloggte Benutzer</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/User Management/Toolbox/Logged in Session Manager" key="Logged in Session Manager" itemid="{FB9F165C-7AA8-4833-B5AD-D14598E71BC9}" fieldid="__Display name" updated="20160703T205229Z">
+    <de-DE>Angemeldete Benutzer Sitzungs-Manager</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/User Session Management/Tasks" key="Tasks" itemid="{472E8F36-AFF5-4078-82BD-95246F7B36FE}" fieldid="__Display name" updated="20150201T205740Z">
+    <de-DE>Aufgaben</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/User Session Management/Tasks/Remove idle user sessions" key="Remove idle user sessions" itemid="{09DF6EB1-4E1C-4F40-8C12-6EB223093AC4}" fieldid="__Display name" updated="20150203T011534Z">
+    <de-DE>Inaktive Benutzersitzungen entfernen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform" key="Platform" itemid="{9F3EEA96-CEC8-4C7D-B26B-6D15AB654AF1}" fieldid="__Display name" updated="20161130T224557Z">
+    <de-DE>Plattform</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Content Editor/Context Menu" key="Context Menu" itemid="{149D1017-B71F-4253-9F1C-1C293198FF2C}" fieldid="__Display name" updated="20141203T015124Z">
+    <de-DE>Kontextmenü</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Content Editor/Context Menu/Purge Empty Libraries" key="Purge Empty Libraries" itemid="{6D3D8082-455B-4523-B147-C76B03EA14A4}" fieldid="__Display name" updated="20160823T113706Z">
+    <de-DE>Leere Bibliotheken bereinigen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Content Editor/Insert Item" key="Insert Item" itemid="{685709C4-D6D9-46A6-8A9D-DF689292DAA9}" fieldid="__Display name" updated="20150419T190835Z">
+    <de-DE>Element einfügen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Content Editor/Insert Item/PowerShell Action" key="PowerShell Action" itemid="{14F9CC2F-DD44-4AE8-9FB4-CF49AC787BAD}" fieldid="__Display name" updated="20160712T142007Z">
+    <de-DE>PowerShell Aktion</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Content Editor/Insert Item/Integration point Libraries" key="Integration point Libraries" itemid="{5945F6DC-A29D-4A8D-A29D-860693F08241}" fieldid="__Display name" updated="20170111T015056Z">
+    <de-DE>Integrationspunkte-Bibliotheken</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Development" key="Development" itemid="{80BA923C-9EB8-408D-B980-DCEB7D95ECC5}" fieldid="__Display name" updated="20141203T161705Z">
+    <de-DE>Entwicklung</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Development/Integration points" key="Integration points" itemid="{5398F7EA-3ECB-4C84-946E-49C63ECD8DCD}" fieldid="__Display name" updated="20141127T095607Z">
+    <de-DE>Integrationspunkte</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Development/Integration points/Content Editor Context Menu" key="Content Editor Context Menu" itemid="{B3D9E494-C365-4029-809D-0C63E449837D}" fieldid="__Display name" updated="20141203T014159Z">
+    <de-DE>Content Editor Kontextmenü</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Development/Integration points/Content Editor Context Menu/Create Libraries" key="Create Libraries" itemid="{3F4D58B4-D799-4764-A1BC-50AF8ACA6C9D}" fieldid="__Display name" updated="20150105T095711Z">
+    <de-DE>Erstelle Bibliotheken</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Development/Integration points/Content Editor Gutter" key="Content Editor Gutter" itemid="{FFD1C46F-D75C-4B7B-AFE4-BE2FA52651A8}" fieldid="__Display name" updated="20141203T001456Z">
+    <de-DE>Content Editor Steg</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Development/Integration points/Content Editor Gutter/Create Libraries" key="Create Libraries" itemid="{7705A482-62CE-4170-8EE7-1E735FAC9FF4}" fieldid="__Display name" updated="20150105T095717Z">
+    <de-DE>Erstelle Bibliotheken</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Development/Integration points/Content Editor Insert Item" key="Content Editor Insert Item" itemid="{0815E882-D73E-4691-B7EF-A5B13E335DA2}" fieldid="__Display name" updated="20141203T014159Z">
+    <de-DE>Content Editor Element einfügen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Development/Integration points/Content Editor Insert Item/Create Libraries" key="Create Libraries" itemid="{24A7B2BD-82D8-414B-8088-9135C7F49499}" fieldid="__Display name" updated="20150419T190419Z">
+    <de-DE>Erstelle Bibliotheken</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Development/Integration points/Content Editor Ribbon/Create Libraries" key="Create Libraries" itemid="{CF286A94-A2D9-43EC-B530-035FB87CB144}" fieldid="__Display name" updated="20150608T184612Z">
+    <de-DE>Erstelle Bibliotheken</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Development/Integration points/Content Editor Warning" key="Content Editor Warning" itemid="{419472C7-65B3-4AAA-9CF3-C58474968EC0}" fieldid="__Display name" updated="20150601T211251Z">
+    <de-DE>Content Editor Warnung</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Development/Integration points/Content Editor Warning/Create Libraries" key="Create Libraries" itemid="{DC9E0DB0-2B8F-44E7-A68A-AB484C80053C}" fieldid="__Display name" updated="20150601T211441Z">
+    <de-DE>Erstelle Bibliotheken</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Development/Integration points/Control Panel/Create Libraries" key="Create Libraries" itemid="{CFCE30B7-A8BA-4ABE-BC09-F09734576A5B}" fieldid="__Display name" updated="20150105T095703Z">
+    <de-DE>Erstelle Bibliotheken</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Development/Integration points/Event Handlers" key="Event Handlers" itemid="{29F31D23-75B4-445D-A7E5-DF3370D21933}" fieldid="__Display name" updated="20141127T095621Z">
+    <de-DE>Event-Handler</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Development/Integration points/Event Handlers/Create libraries for all events" key="Create libraries for all events" itemid="{4DFBE0BE-90F2-4842-99ED-D32A5E35E1D6}" fieldid="__Display name" updated="20150105T095754Z">
+    <de-DE>Erstelle Bibliotheken für alle Events</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Development/Integration points/Functions" key="Functions" itemid="{E089D2C6-0956-4F60-8126-FD2791B38318}" fieldid="__Display name" updated="20141203T001901Z">
+    <de-DE>Funktionen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Development/Integration points/Functions/Create Libraries" key="Create Libraries" itemid="{FB5D13E5-47BA-4EAE-BB7A-BE32737CC55C}" fieldid="__Display name" updated="20150105T095803Z">
+    <de-DE>Erstelle Bibliotheken</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Development/Integration points/ISE Plugin/Create Libraries" key="Create Libraries" itemid="{B1EAADF1-D441-491F-A333-98564D913EB8}" fieldid="__Display name" updated="20150622T141721Z">
+    <de-DE>Erstelle Bibliotheken</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Development/Integration points/List View Exporters" key="List View Exporters" itemid="{732F5B2D-3137-479C-BA37-73F8F2ED55D1}" fieldid="__Display name" updated="20141203T001920Z">
+    <de-DE>Listenansicht Exporter</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Development/Integration points/List View Exporters/Create Libraries" key="Create Libraries" itemid="{9ECE97F0-F6EE-43AF-86F5-51C07D6814CC}" fieldid="__Display name" updated="20150105T095820Z">
+    <de-DE>Erstelle Bibliotheken</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Development/Integration points/List View Ribbon Actions" key="List View Ribbon Actions" itemid="{CA23CF73-F69A-4391-8E96-B5EBC87A18DF}" fieldid="__Display name" updated="20141203T001945Z">
+    <de-DE>Listenansicht Ribbon Aktionen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Development/Integration points/List View Ribbon Actions/Create Libraries" key="Create Libraries" itemid="{E6A973EC-0023-41FA-AF4C-17E314C7D470}" fieldid="__Display name" updated="20150105T095851Z">
+    <de-DE>Erstelle Bibliotheken</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Development/Integration points/Logged In Pipeline/Create Libraries" key="Create Libraries" itemid="{356FFE92-06B1-4F1F-B582-647A8BA8143E}" fieldid="__Display name" updated="20150105T095856Z">
+    <de-DE>Erstelle Bibliotheken</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Development/Integration points/Logging in Pipeline/Create Libraries" key="Create Libraries" itemid="{9A210D76-F5B8-4645-97DB-33518DF9C42B}" fieldid="__Display name" updated="20150105T095902Z">
+    <de-DE>Erstelle Bibliotheken</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Development/Integration points/Logout Pipeline/Create Libraries" key="Create Libraries" itemid="{C0AD38B7-2846-408B-B2A1-9EDBB8662080}" fieldid="__Display name" updated="20150105T095907Z">
+    <de-DE>Erstelle Bibliotheken</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Development/Integration points/Page Editor Experience Buttons/Create Libraries" key="Create Libraries" itemid="{2C8F2F97-48A5-4D61-9ACE-02F514418860}" fieldid="__Display name" updated="20160101T233712Z">
+    <de-DE>Erstelle Bibliotheken</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Development/Integration points/Page Editor Notifications" key="Page Editor Notifications" itemid="{A4ECB8C4-28AE-4EE7-B5B6-8ECC2E7C1881}" fieldid="__Display name" updated="20150608T194505Z">
+    <de-DE>Page Editor Benachrichtigungen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Development/Integration points/Page Editor Notifications/Create Libraries" key="Create Libraries" itemid="{01543B62-5AF3-48B5-AC6A-F45904C359B8}" fieldid="__Display name" updated="20150608T194635Z">
+    <de-DE>Erstelle Bibliotheken</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Development/Integration points/Start Menu Reports" key="Start Menu Reports" itemid="{FA94F98B-4405-4219-82E4-07DDC2C09F1D}" fieldid="__Display name" updated="20141203T002140Z">
+    <de-DE>Startmenü Reporte</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Development/Integration points/Start Menu Reports/Create Libraries" key="Create Libraries" itemid="{F1D2D408-3D8D-4CAA-9DDE-8675F24ABBF6}" fieldid="__Display name" updated="20150105T095911Z">
+    <de-DE>Erstelle Bibliotheken</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Development/Integration points/Toolbox/Create Libraries" key="Create Libraries" itemid="{3BEAED5C-B58A-4000-B4FF-D925654E3AF2}" fieldid="__Display name" updated="20150105T095918Z">
+    <de-DE>Erstelle Bibliotheken</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Development/Integration points/Web API/Create Libraries" key="Create Libraries" itemid="{342C49A9-8EEB-43F0-9BB7-F2DEE7484E93}" fieldid="__Display name" updated="20150211T110811Z">
+    <de-DE>Erstelle Bibliotheken</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Development/Integration points/Create Integration Points" key="Create Integration Points" itemid="{785CB68F-0999-4543-A5E1-AFED0C152A17}" fieldid="__Display name" updated="20170128T014721Z">
+    <de-DE>Erstelle Integrationspunkte</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Development/Integration points/Rebuild All Integrations" key="Rebuild All Integrations" itemid="{07C20F9F-7C76-4C13-8166-427A57002FF8}" fieldid="__Display name" updated="20151229T030800Z">
+    <de-DE>Alle Integrationen neu bauen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Development/PowerShell Extensions Maintenance" key="PowerShell Extensions Maintenance" itemid="{01BB164C-5E8E-4C9B-941F-E5340BDD520C}" fieldid="__Display name" updated="20141203T020714Z">
+    <de-DE>PowerShell Extensions Wartung</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Development/PowerShell Extensions Maintenance/Create Missing Documentation Files" key="Create Missing Documentation Files" itemid="{FBBF119E-1930-4DD2-BF97-0E331355D2FD}" fieldid="__Display name" updated="20150621T165054Z">
+    <de-DE>Erstelle fehlende Dokumentationsdateien</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Development/PowerShell Extensions Maintenance/Generate Language XMLs" key="Generate Language XMLs" itemid="{504FDCC3-DF2D-4BD7-B456-9F9A33CD9FD0}" fieldid="__Display name" updated="20160827T213638Z">
+    <de-DE>Generiere Sprach-XML's</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Development/PowerShell Extensions Maintenance/Prepare Console Distribution" key="Prepare Console Distribution" itemid="{AC05422C-A1B1-41BA-A1FD-4EC7E944DE3B}" fieldid="__Display name" updated="20170606T105438Z">
+    <de-DE>Konsolenverteilung vorbereiten</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Development/PowerShell Extensions Maintenance/Serialize Changes" key="Serialize Changes" itemid="{0F51A4A9-9BF9-4EF4-8B54-2ED954C6931D}" fieldid="__Display name" updated="20170605T102349Z">
+    <de-DE>Änderungen serialisieren</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Development/PowerShell Extensions Maintenance/Set up Runner Window Chrome" key="Set up Runner Window Chrome" itemid="{FE669C6E-5CE5-4A7D-B4D3-5039B4C6AE75}" fieldid="__Display name" updated="20160531T064747Z">
+    <de-DE>Runner Window Chrome aufsetzen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Development/PowerShell Extensions Maintenance/Update SPE items from serialized version" key="Update SPE items from serialized version" itemid="{ADA751CC-1672-4177-AA21-2CA9AE07B009}" fieldid="__Display name" updated="20160531T081949Z">
+    <de-DE>SPE-Elemente von der serialisierten Version aktualisieren </de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Functions" key="Functions" itemid="{E22D066A-04D0-4799-9DAD-EDD9EB07C2B2}" fieldid="__Display name" updated="20141203T020438Z">
+    <de-DE>Funktionen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Functions/Clear-Archive" key="Clear-Archive" itemid="{AC863D02-67FF-4614-9925-0B455F3F4DF4}" fieldid="__Display name" updated="20141227T165204Z">
+    <de-DE>Archiv löschen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Functions/Compress-Archive" key="Compress-Archive" itemid="{22C47B26-223F-4D5A-B760-9BB3C711AF9E}" fieldid="__Display name" updated="20150820T020427Z">
+    <de-DE>Archiv komprimieren</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Functions/ConvertTo-Xlsx" key="ConvertTo-Xlsx" itemid="{8D861616-64DC-4137-BDB8-D8BFD684B3A8}" fieldid="__Display name" updated="20160103T005626Z">
+    <de-DE>In XLSX konvertieren</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Functions/Create-IntegrationPoint" key="Create-IntegrationPoint" itemid="{CBD83237-E051-473C-87AB-794D4976C587}" fieldid="__Display name" updated="20150402T013001Z">
+    <de-DE>Integrationspunkt erstellen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Functions/Edit-DTWCleanScript" key="Edit-DTWCleanScript" itemid="{568454E6-FB3E-480B-9417-8B7E78FACE3F}" fieldid="__Display name" updated="20150809T045520Z">
+    <de-DE>DTWCleanScript bearbeiten</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Functions/Expand-Archive" key="Expand-Archive" itemid="{FF02236B-9284-4C65-8A6D-A8371FE0AF3F}" fieldid="__Display name" updated="20150720T001541Z">
+    <de-DE>Archiv erweitern</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Functions/Export-Xlsx" key="Export-Xlsx" itemid="{9D84FF3E-FCC5-4600-B89D-D2DAC031DB57}" fieldid="__Display name" updated="20150614T173931Z">
+    <de-DE>XLSX exportieren</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Functions/Get-DTWFileEncoding" key="Get-DTWFileEncoding" itemid="{5A752D27-E9A0-4273-A5A8-270B3CE91E52}" fieldid="__Display name" updated="20150625T085727Z">
+    <de-DE>DTWFileEncoding erhalten</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Functions/Get-LockedChildItem" key="Get-LockedChildItem" itemid="{27CB796A-A23C-4789-A2FC-7D04A876B8DC}" fieldid="__Display name" updated="20150809T135509Z">
+    <de-DE>Gesperrtes Kindelement erhalten</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Functions/Invoke-SqlCommand" key="Invoke-SqlCommand" itemid="{9DC741A7-FFF1-493D-A3A5-E3964E087A9E}" fieldid="__Display name" updated="20150702T225930Z">
+    <de-DE>SQL-Kommando ausführen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Functions/Purge-EmptyLibrary" key="Purge-EmptyLibrary" itemid="{D0FB0F4D-77C9-45AE-845A-77097C796890}" fieldid="__Display name" updated="20141227T165205Z">
+    <de-DE>Leere Bibliothek löschen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Functions/Render-ReportField" key="Render-ReportField" itemid="{59C5958A-FC13-401B-BF7D-D85D440BEA63}" fieldid="__Display name" updated="20160819T144013Z">
+    <de-DE>Render Report-Feld</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Functions/Resolve-Error" key="Resolve-Error" itemid="{7E7C6105-9A15-4864-9BC8-4EB91D0568C7}" fieldid="__Display name" updated="20141227T165205Z">
+    <de-DE>Fehler auflösen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Functions/Invoke-ApiScript" key="Invoke-ApiScript" itemid="{F42F88F8-76FB-4158-8ACD-CD57722C0351}" fieldid="__Display name" updated="20170207T083020Z">
+    <de-DE>Api-Skript ausführen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Internal" key="Internal" itemid="{BC04225A-DB28-457E-BB7E-6CB3C4D84B0A}" fieldid="__Display name" updated="20141203T155038Z">
+    <de-DE>Intern</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Internal/Context Help" key="Context Help" itemid="{2BFAEECA-8BDF-45F3-AA79-AC85D8DFB7A4}" fieldid="__Display name" updated="20130929T104518Z">
+    <de-DE>Kontexthilfe</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Internal/Context Help/Command Help" key="Command Help" itemid="{F8448BA4-D0E7-482B-BD7B-3CF1AA3CA12D}" fieldid="__Display name" updated="20150118T152441Z">
+    <de-DE>Kommando Hilfe</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Internal/Context Help/Command Help - md" key="Command Help - md" itemid="{7BCA5F8F-5D0C-41D9-A886-BD6839FB00DE}" fieldid="__Display name" updated="20161019T212536Z">
+    <de-DE>Kommando Hilfe - md</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Internal/Context Help/Regenerate cmdlet md for Gitbook" key="Regenerate cmdlet md for Gitbook" itemid="{02A07C1A-2089-4539-BBB9-7B2979769458}" fieldid="__Display name" updated="20161019T213506Z">
+    <de-DE>Cmdlet neu generieren md für das Gitbook</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Internal/Integrations" key="Integrations" itemid="{9BE73650-A188-4802-A68E-E720DB54C5E9}" fieldid="__Display name" updated="20130920T084737Z">
+    <de-DE>Integrationen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Internal/Integrations/Content Editor Gutter" key="Content Editor Gutter" itemid="{784B270D-91CF-4DC4-890C-D0C1B18C1189}" fieldid="__Display name" updated="20150831T211701Z">
+    <de-DE>Content Editor Steg</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Internal/ISE Plugins/Scripts containing" key="Scripts containing" itemid="{DC057106-E746-42E3-9ADA-2A5215C00F85}" fieldid="__Display name" updated="20150629T211902Z">
+    <de-DE>Skripte mit</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Internal/List View" key="List View" itemid="{59DD7A8B-8E16-432F-B842-5DAA13655642}" fieldid="__Display name" updated="20130911T130818Z">
+    <de-DE>Listenansicht</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Internal/List View/Ribbon/Item" key="Item" itemid="{253849CD-BBE6-4850-BB68-5680C214164A}" fieldid="__Display name" updated="20130914T213051Z">
+    <de-DE>Element</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Internal/List View/Ribbon/Item/Edit" key="Edit" itemid="{5DFA45C3-35E2-4E8C-B341-2DDF5CECEAC1}" fieldid="__Display name" updated="20150625T150717Z">
+    <de-DE>Bearbeiten</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Internal/List View/Ribbon/Item/Open" key="Open" itemid="{241922F3-E622-49A4-8754-8BFBE051EA83}" fieldid="__Display name" updated="20160703T203702Z">
+    <de-DE>Öffnen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Internal/List View/Ribbon/ScriptSession" key="ScriptSession" itemid="{A29C833B-50C6-439D-B65F-8B894A37E824}" fieldid="__Display name" updated="20131216T110335Z">
+    <de-DE>Skript-Sitzung</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Internal/List View/Ribbon/ScriptSession/Kill" key="Kill" itemid="{54C08CF9-8939-4D52-9064-BD6E4A4DF364}" fieldid="__Display name" updated="20170112T160319Z">
+    <de-DE>Killen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Internal/List View/Ribbon/ScriptSession/Refresh" key="Refresh" itemid="{E069898E-AF58-4ABD-AD68-C277BD54509A}" fieldid="__Display name" updated="20170112T160331Z">
+    <de-DE>Aktualisieren</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Internal/List View/Ribbon/ScriptSession/Open" key="Open" itemid="{D6A80D77-F782-4CD4-B465-FFF0615F4C16}" fieldid="__Display name" updated="20141227T165206Z">
+    <de-DE>Öffnen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Reusable" key="Reusable" itemid="{00D055C8-A6E6-4AF3-B5A4-2A92D0613C3B}" fieldid="__Display name" updated="20170112T160035Z">
+    <de-DE>Wiederverwendbar</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Reusable/Get-StateField" key="Get-StateField" itemid="{5482355C-96B1-48A9-9EFF-84447AF336F7}" fieldid="__Display name" updated="20170112T160121Z">
+    <de-DE>Status-Feld erhalten</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Toolbox/PowerShell Background Session Manager" key="PowerShell Background Session Manager" itemid="{7760775F-0CE7-4A01-A4E5-1AB9103FFFD3}" fieldid="__Display name" updated="20170305T193020Z">
+    <de-DE>PowerShell Hintergrund-Sitzungs-Manager</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Toolbox/Rebuild script integration points" key="Rebuild script integration points" itemid="{D5C7F7B5-524F-43B5-A19B-89247CF713DE}" fieldid="__Display name" updated="20170305T193038Z">
+    <de-DE>Skript-Integrationspunkte neu erstellen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Toolbox/Re-create site from sitemap" key="Re-create site from sitemap" itemid="{EB994C17-44B1-4620-9DCF-DF046812F016}" fieldid="__Display name" updated="20140302T083022Z">
+    <de-DE>Seite von Sitemap neu erstellen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Toolbox/About Sitecore PowerShell Extensions" key="About Sitecore PowerShell Extensions" itemid="{BBC64A41-D1FE-4C09-A76A-6A8E01B479D9}" fieldid="__Display name" updated="20170309T120351Z">
+    <de-DE>Über Sitecore PowerShell Extensions</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/Platform/Create Language Dictionary entries" key="Create Language Dictionary entries" itemid="{4C9F49E2-4C71-480D-B393-F7D93165AF1C}" fieldid="__Display name" updated="20160830T085356Z">
+    <de-DE>Erzeuge Sprachwörterbuch Einträge</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/X-UnitTests/Content Editor/Context Menu" key="Context Menu" itemid="{2171A265-4573-4ADA-82B7-CABC4549B3B4}" fieldid="__Display name" updated="20160515T211302Z">
+    <de-DE>Kontextmenü</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/X-UnitTests/Content Editor/Context Menu/Run Unit Tests" key="Run Unit Tests" itemid="{ED8BCC9D-3757-489D-9990-42D43B6B1521}" fieldid="__Display name" updated="20170308T142449Z">
+    <de-DE>Unit Tests ausführen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/X-UnitTests/Platform" key="Platform" itemid="{B3B06D9C-8097-45D3-A718-69FF21BDFFFC}" fieldid="__Display name" updated="20160327T231400Z">
+    <de-DE>Plattform</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/X-UnitTests/Platform/Cloning" key="Cloning" itemid="{910ED90A-E675-42D5-BB2E-0B9FC293B552}" fieldid="__Display name" updated="20170307T162844Z">
+    <de-DE>Klonen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/X-UnitTests/Platform/Cloning/Clones and Notifications" key="Clones and Notifications" itemid="{147658CC-5C08-4292-BDCC-25B2BD571D0A}" fieldid="__Display name" updated="20170308T140054Z">
+    <de-DE>Klone und Benachrichtigungen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/X-UnitTests/Platform/Functions" key="Functions" itemid="{0BB59259-7B32-47B9-A75D-1D8B57811D59}" fieldid="__Display name" updated="20160516T014450Z">
+    <de-DE>Funktionen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/X-UnitTests/Platform/Functions/Test Invoke-ApiScript" key="Test Invoke-ApiScript" itemid="{182B4A38-5FA3-45C8-A646-5BD5362D42FD}" fieldid="__Display name" updated="20160516T024626Z">
+    <de-DE />
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/X-UnitTests/Platform/Provider" key="Provider" itemid="{D21B2B70-3D3E-4BAE-B7BF-0D10CE51A425}" fieldid="__Display name" updated="20160515T205917Z">
+    <de-DE>Anbieter</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/X-UnitTests/Platform/Provider/Test Copy-Item" key="Test Copy-Item" itemid="{20CFB53D-FBEF-4FED-B054-0AEF37FC5B15}" fieldid="__Display name" updated="20170122T221227Z">
+    <de-DE />
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/X-UnitTests/Platform/Provider/Test Get-Item" key="Test Get-Item" itemid="{FDE7FD2F-7CE4-40E9-A2A0-578C37EEBBFB}" fieldid="__Display name" updated="20170116T024625Z">
+    <de-DE />
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/X-UnitTests/Platform/Security" key="Security" itemid="{5173C131-3DB8-4CDE-98D7-9094DB962967}" fieldid="__Display name" updated="20160515T205831Z">
+    <de-DE>Sicherheit</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Script Library/X-UnitTests/Platform/Sessions" key="Sessions" itemid="{4765238B-0D7E-445A-831E-4A948ECA11A9}" fieldid="__Display name" updated="20160515T205917Z">
+    <de-DE>Sitzungen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Settings" key="Settings" itemid="{83B665CB-DE30-453E-AD18-338C851BBA46}" fieldid="__Display name" updated="20170102T180217Z">
+    <de-DE>Einstellungen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Settings/Console" key="Console" itemid="{A6F7AE21-E569-492B-9122-578F0E696DCB}" fieldid="__Display name" updated="20170529T132729Z">
+    <de-DE>Konsole</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Settings/Console/All Users" key="All Users" itemid="{6CB327FA-4783-4DF6-B3C2-F396073D7962}" fieldid="__Display name" updated="20160829T192251Z">
+    <de-DE>Alle Benutzer</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Settings/Context" key="Context" itemid="{BCE6F88B-4128-4292-BD13-0402358BFE7C}" fieldid="__Display name" updated="20170529T132742Z">
+    <de-DE>Kontext</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Settings/Context/All Users" key="All Users" itemid="{D237B896-675E-4D63-B86E-6BA898BBBFF8}" fieldid="__Display name" updated="20160829T192251Z">
+    <de-DE>Alle Benutzer</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Settings/Default" key="Default" itemid="{6B3434F0-4398-4BE8-9C14-73EFC3367FC4}" fieldid="__Display name" updated="20170529T132757Z">
+    <de-DE>Standard</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Settings/Default/All Users" key="All Users" itemid="{910D33B7-AB6E-429A-9E56-8923346BED66}" fieldid="__Display name" updated="20160829T192251Z">
+    <de-DE>Alle Benutzer</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Settings/ISE" key="ISE" itemid="{0D691C42-71E5-44C3-8CDE-6A05FA88DFF8}" fieldid="__Display name" updated="20170529T132811Z">
+    <de-DE>ISE</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Settings/ISE/All Users" key="All Users" itemid="{DB19F00D-05F0-4589-8807-189CE2807224}" fieldid="__Display name" updated="20160829T192251Z">
+    <de-DE>Alle Benutzer</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Settings/RemoteAutomation" key="RemoteAutomation" itemid="{86DBCCD1-CF63-4203-98F8-8A07CFEF65A9}" fieldid="__Display name" updated="20170529T132826Z">
+    <de-DE>Remote-Automatisierung</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Modules/PowerShell/Settings/RemoteAutomation/All Users" key="All Users" itemid="{C02D13EE-8F7C-426D-8623-EEA082B59A79}" fieldid="__Display name" updated="20160829T192251Z">
+    <de-DE>Alle Benutzer</de-DE>
+  </phrase>
+</sitecore>

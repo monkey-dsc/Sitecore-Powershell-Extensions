@@ -1,0 +1,605 @@
+<sitecore>
+  <phrase path="/sitecore/client/Applications/Launchpad/PageSettings/Buttons/ContentEditing/PowerShell ISE" key="PowerShell ISE" itemid="{BFC79034-857C-4432-A5C2-2D93AF784384}" fieldid="Text" updated="20150619T192612Z">
+    <de-DE>PowerShell ISE</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Context Menues/Default/Edit Script" key="Edit Script" itemid="{9D4A541D-3A5B-4BAE-B3F4-3790723EF3FC}" fieldid="__Display name" updated="20161202T161839Z">
+    <de-DE>Skript bearbeiten</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Context Menues/Default/Edit Script" key="Edit Script" itemid="{9D4A541D-3A5B-4BAE-B3F4-3790723EF3FC}" fieldid="Display name" updated="20161202T161839Z">
+    <de-DE>Mit ISE bearbeiten</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Context Menues/Default/PowerShell Console" key="PowerShell Console" itemid="{91447F09-FD62-4BE6-96AF-265FAEBD1429}" fieldid="__Display name" updated="20161202T162017Z">
+    <de-DE>PowerShell Konsole</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Context Menues/Default/PowerShell Console" key="PowerShell Console" itemid="{91447F09-FD62-4BE6-96AF-265FAEBD1429}" fieldid="Display name" updated="20161202T162017Z">
+    <de-DE>Konsole</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Context Menues/Default/Context PowerShell Scripts" key="Context PowerShell Scripts" itemid="{3FB872EC-B14E-4603-AA0D-DB184E7605E7}" fieldid="__Display name" updated="20141227T152727Z">
+    <de-DE>Kontext PowerShell Skripte</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/Content Editor/Context Menues/Default/Context PowerShell Scripts" key="Context PowerShell Scripts" itemid="{3FB872EC-B14E-4603-AA0D-DB184E7605E7}" fieldid="Display name" updated="20141227T152727Z">
+    <de-DE>Skripte</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse" key="PowerShellIse" itemid="{6857D035-AB70-4DAC-8E7F-C6534BB8141F}" fieldid="Tool tip" updated="20161122T032500Z">
+    <de-DE>Erzeuge PowerShell Scripts</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse" key="PowerShellIse" itemid="{6857D035-AB70-4DAC-8E7F-C6534BB8141F}" fieldid="Display name" updated="20161122T032500Z">
+    <de-DE>PowerShell ISE</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse" key="PowerShellIse" itemid="{6857D035-AB70-4DAC-8E7F-C6534BB8141F}" fieldid="__Display name" updated="20161122T032500Z">
+    <de-DE>PowerShell ISE</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Menus" key="Menus" itemid="{2618CD65-F281-4B01-A9D2-A18751F57EF5}" fieldid="__Display name" updated="20130506T064044Z">
+    <de-DE>Menüs</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Menus/Context" key="Context" itemid="{D85ED316-79BB-42D3-A3DC-F7DA4C6E5CA5}" fieldid="__Display name" updated="20130506T064152Z">
+    <de-DE>Kontext</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Menus/Context/Do not set location" key="Do not set location" itemid="{B76D2B94-6CA9-4936-92BB-C9377101493C}" fieldid="__Display name" updated="20150128T124335Z">
+    <de-DE>Standort nicht setzen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Menus/Context/Do not set location" key="Do not set location" itemid="{B76D2B94-6CA9-4936-92BB-C9377101493C}" fieldid="Display name" updated="20150128T124335Z">
+    <de-DE>Standort nicht setzen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Menus/Execute" key="Execute" itemid="{A30764F4-6ECA-4EE2-9235-39E3D4F8E7F6}" fieldid="__Display name" updated="20130506T064152Z">
+    <de-DE>Ausführen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Menus/Execute/Execute in a background job" key="Execute in a background job" itemid="{B8B685AD-C208-444B-A5E7-F8B9F48431CE}" fieldid="__Display name" updated="20160823T172046Z">
+    <de-DE>In einem Hintergrundjob ausführen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Menus/Execute/Execute in a background job" key="Execute in a background job" itemid="{B8B685AD-C208-444B-A5E7-F8B9F48431CE}" fieldid="Display name" updated="20160823T172046Z">
+    <de-DE>In einem Hintergrundjob ausführen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Menus/Execute/Execute in http request context" key="Execute in http request context" itemid="{FDDE4730-06FA-46EA-AAD5-DB3C225E3851}" fieldid="__Display name" updated="20160823T172130Z">
+    <de-DE>Im HTTP Request Kontext ausführen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Menus/Execute/Execute in http request context" key="Execute in http request context" itemid="{FDDE4730-06FA-46EA-AAD5-DB3C225E3851}" fieldid="Display name" updated="20160823T172130Z">
+    <de-DE>Im HTTP Request Kontext ausführen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Menus/Integrations" key="Integrations" itemid="{53E639C2-8AFA-4AE5-9CB0-93B52FECDE2D}" fieldid="__Display name" updated="20130506T064152Z">
+    <de-DE>Integrationen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Menus/Integrations/Content Editor Gutter" key="Content Editor Gutter" itemid="{F5CA0BD1-BFD8-4253-AA80-7A4F352E8AC2}" fieldid="__Display name" updated="20160823T172213Z">
+    <de-DE />
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Menus/Integrations/Content Editor Gutter" key="Content Editor Gutter" itemid="{F5CA0BD1-BFD8-4253-AA80-7A4F352E8AC2}" fieldid="Display name" updated="20160823T172213Z">
+    <de-DE>Bibliothek mit dem Content Editor Steg synchronisieren</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Menus/Integrations/Content Editor Ribbon" key="Content Editor Ribbon" itemid="{E4108F18-9ADE-4D01-B746-4ECE9985EA21}" fieldid="__Display name" updated="20160823T172402Z">
+    <de-DE />
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Menus/Integrations/Content Editor Ribbon" key="Content Editor Ribbon" itemid="{E4108F18-9ADE-4D01-B746-4ECE9985EA21}" fieldid="Display name" updated="20160823T172402Z">
+    <de-DE>Bibliothek mit dem Content Editor Ribbon synchronisieren</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Menus/Integrations/Control Panel" key="Control Panel" itemid="{0C9FBBE4-B629-49A6-B0ED-38F1CBED5ADC}" fieldid="Display name" updated="20160823T172326Z">
+    <de-DE>Bibliothek mit dem Control Panel synchronisieren</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Menus/Languages" key="Languages" itemid="{1509F408-F9EB-4CF3-AB9A-F4A28D8BD01C}" fieldid="__Display name" updated="20130506T064152Z">
+    <de-DE>Sprachen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Menus/Languages/Current language" key="Current language" itemid="{B0E0FEA4-D27B-4C72-96C4-0241FF0B3F01}" fieldid="__Display name" updated="20161018T145647Z">
+    <de-DE>Aktuelle Sprache</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Menus/Languages/Current language" key="Current language" itemid="{B0E0FEA4-D27B-4C72-96C4-0241FF0B3F01}" fieldid="Display name" updated="20161018T145647Z">
+    <de-DE>Aktuelle Sprache</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Menus/Languages/More Languages" key="More Languages" itemid="{A30C6ED6-B2E6-4C3D-B7A5-2A5DE42C80F1}" fieldid="__Display name" updated="20161018T155609Z">
+    <de-DE>Mehr Sprachen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Menus/Languages/More Languages" key="More Languages" itemid="{A30C6ED6-B2E6-4C3D-B7A5-2A5DE42C80F1}" fieldid="Display name" updated="20161018T155609Z">
+    <de-DE>Mehr Sprachen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Menus/New" key="New" itemid="{E5B80A51-7896-4D9C-91E6-F5891202A5ED}" fieldid="__Display name" updated="20130506T064152Z">
+    <de-DE>Neu</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Menus/New/New Module" key="New Module" itemid="{8E6A8C78-B72C-47C7-A68B-94D3B9753531}" fieldid="__Display name" updated="20150210T172252Z">
+    <de-DE>Neues Modul</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Menus/New/New Module" key="New Module" itemid="{8E6A8C78-B72C-47C7-A68B-94D3B9753531}" fieldid="Display name" updated="20150210T172252Z">
+    <de-DE>Neues Modul</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Menus/Save" key="Save" itemid="{8E00CD9F-094B-4E17-B131-675C66C81C8E}" fieldid="__Display name" updated="20130506T064152Z">
+    <de-DE>Speichern</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Menus/Save/Save As" key="Save As" itemid="{58ADC7A6-2BF4-4A26-8604-7D61117AB650}" fieldid="__Display name" updated="20130506T064944Z">
+    <de-DE>Speichern als...</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Menus/Save/Save As" key="Save As" itemid="{58ADC7A6-2BF4-4A26-8604-7D61117AB650}" fieldid="Display name" updated="20130506T064944Z">
+    <de-DE>Speichern als...</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Menus/Sessions" key="Sessions" itemid="{92BA4FF7-D42C-462B-9C6A-194FF9DA3DD3}" fieldid="__Display name" updated="20130506T064152Z">
+    <de-DE>Sitzungen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Menus/Sessions/ISE editing session" key="ISE editing session" itemid="{B22817A1-89E7-4B0B-805E-E655711F47CA}" fieldid="__Display name" updated="20170607T161104Z">
+    <de-DE>Bearbeitungssitzung von ISE</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Menus/Sessions/ISE editing session" key="ISE editing session" itemid="{B22817A1-89E7-4B0B-805E-E655711F47CA}" fieldid="Display name" updated="20170607T161104Z">
+    <de-DE>Behalte ISE Sitzung zwischen den Skript-Ausführungen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Menus/Sessions/Script defined" key="Script defined" itemid="{3597EC4E-D513-4754-A9C7-04666E6545EB}" fieldid="__Display name" updated="20150128T075903Z">
+    <de-DE>Skript-Spezifisch</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Menus/Sessions/Script defined" key="Script defined" itemid="{3597EC4E-D513-4754-A9C7-04666E6545EB}" fieldid="Display name" updated="20150128T075903Z">
+    <de-DE>Skript-Spezifisch</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Menus/Sessions/Single execution" key="Single execution" itemid="{BA5B0AF4-AAA1-46D6-9CB6-C53A77F05EAA}" fieldid="__Display name" updated="20160518T141838Z">
+    <de-DE>Einzelne Ausführung</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Menus/Sessions/Single execution" key="Single execution" itemid="{BA5B0AF4-AAA1-46D6-9CB6-C53A77F05EAA}" fieldid="Display name" updated="20160518T141838Z">
+    <de-DE>Verwerfe Sitzung nach Skript-Ausführung</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Menus/Settings" key="Settings" itemid="{00816D3B-4254-42A9-BC5F-1DBF84CFE393}" fieldid="__Display name" updated="20130506T064152Z">
+    <de-DE>Einstellungen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Menus/Settings/Console" key="Console" itemid="{731EE1E0-C10D-4DEE-95B8-BB7E25CCC3B8}" fieldid="__Display name" updated="20150128T145857Z">
+    <de-DE>Konsole</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Menus/Settings/Console" key="Console" itemid="{731EE1E0-C10D-4DEE-95B8-BB7E25CCC3B8}" fieldid="Display name" updated="20150128T145857Z">
+    <de-DE>Konsole</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Menus/Settings/ISE" key="ISE" itemid="{41E314FF-B78E-4E5D-A01C-17DC0306C209}" fieldid="Display name" updated="20150128T145857Z">
+    <de-DE>ISE</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Menus/Settings/Results" key="Results" itemid="{40B7C90D-8457-447C-92A6-0DCA5CA0C3DF}" fieldid="__Display name" updated="20150128T150106Z">
+    <de-DE>Ergebnisse</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Menus/Settings/Results" key="Results" itemid="{40B7C90D-8457-447C-92A6-0DCA5CA0C3DF}" fieldid="Display name" updated="20150128T150106Z">
+    <de-DE>Ergebnisse</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Menus/Users" key="Users" itemid="{C9339FFE-5C23-46B0-A7E6-9E53E5C2A3DA}" fieldid="__Display name" updated="20130506T064152Z">
+    <de-DE>Benutzer</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Menus/Users/Current user" key="Current user" itemid="{EB85226A-2E90-4921-9404-358FDF05F65D}" fieldid="__Display name" updated="20161019T112017Z">
+    <de-DE>Aktueller Benutzer</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Menus/Users/Current user" key="Current user" itemid="{EB85226A-2E90-4921-9404-358FDF05F65D}" fieldid="Display name" updated="20161019T112017Z">
+    <de-DE>Aktueller Benutzer</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Menus/Users/More Users" key="More Users" itemid="{CD7786C1-32F5-4E36-99AB-ED08C30AD954}" fieldid="__Display name" updated="20161018T200623Z">
+    <de-DE>Mehr Sprachen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Menus/Users/More Users" key="More Users" itemid="{CD7786C1-32F5-4E36-99AB-ED08C30AD954}" fieldid="Display name" updated="20161018T200623Z">
+    <de-DE>Mehr Sprachen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Meta" key="Meta" itemid="{BB48D97A-3B30-4EC2-9F2B-88CE27970983}" fieldid="Default Title" updated="20111221T115427Z">
+    <de-DE>Meta</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Meta/Edit" key="Edit" itemid="{666237D3-38AC-4E2E-BABF-E79A9B310432}" fieldid="Header" updated="20131003T190919Z">
+    <de-DE>Skript-Laufzeit-Einstellungen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Meta/Edit" key="Edit" itemid="{666237D3-38AC-4E2E-BABF-E79A9B310432}" fieldid="__Display name" updated="20131003T190919Z">
+    <de-DE>Bearbeiten</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Meta/EditConsoleSettings" key="EditConsoleSettings" itemid="{25C829E2-02B8-4132-8065-4F8606960AB4}" fieldid="Header" updated="20160229T111957Z">
+    <de-DE>Script-Laufzeit-Einstellungen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Meta/EditConsoleSettings" key="EditConsoleSettings" itemid="{25C829E2-02B8-4132-8065-4F8606960AB4}" fieldid="__Display name" updated="20160229T111957Z">
+    <de-DE>Konsolen-Einstellungen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Meta/EditIseSettings" key="EditIseSettings" itemid="{0FE8E7FE-13A8-4983-9BCA-3F88AEF37C65}" fieldid="Header" updated="20160229T112005Z">
+    <de-DE>Script-Laufzeit-Einstellungen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Meta/EditIseSettings" key="EditIseSettings" itemid="{0FE8E7FE-13A8-4983-9BCA-3F88AEF37C65}" fieldid="__Display name" updated="20160229T112005Z">
+    <de-DE>ISE-Einstellungen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Ribbon/Script" key="Script" itemid="{693B043E-B20B-4C2F-86A8-786161D08DAB}" fieldid="Header" updated="20150128T150809Z">
+    <de-DE>Home</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Ribbon/Script" key="Script" itemid="{693B043E-B20B-4C2F-86A8-786161D08DAB}" fieldid="__Display name" updated="20150128T150809Z">
+    <de-DE>Skript</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Ribbon/Script/Write" key="Write" itemid="{D6C55BB3-43D3-4516-A1A9-9836702B29FE}" fieldid="Header" updated="20130512T185009Z">
+    <de-DE>Schreiben</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Ribbon/Script/Write" key="Write" itemid="{D6C55BB3-43D3-4516-A1A9-9836702B29FE}" fieldid="__Display name" updated="20130512T185009Z">
+    <de-DE>Schreiben</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Ribbon/Script/Write/New" key="New" itemid="{35AA85FC-CE35-43AE-9D76-D7E4E04BC92A}" fieldid="Header" updated="20150210T220945Z">
+    <de-DE>Neu</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Ribbon/Script/Write/New" key="New" itemid="{35AA85FC-CE35-43AE-9D76-D7E4E04BC92A}" fieldid="__Display name" updated="20150210T220945Z">
+    <de-DE>Neu</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Ribbon/Script/Write/Open" key="Open" itemid="{E439A715-F0E9-4064-9E08-995253361BB0}" fieldid="Header" updated="20150714T085345Z">
+    <de-DE>Öffnen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Ribbon/Script/Write/Open" key="Open" itemid="{E439A715-F0E9-4064-9E08-995253361BB0}" fieldid="__Display name" updated="20150714T085345Z">
+    <de-DE>Öffnen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Ribbon/Script/Write/Save" key="Save" itemid="{85C8B67A-434D-4001-9F04-0EE5CFDB745B}" fieldid="Header" updated="20150615T185500Z">
+    <de-DE>Speichern</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Ribbon/Script/Write/Save" key="Save" itemid="{85C8B67A-434D-4001-9F04-0EE5CFDB745B}" fieldid="__Display name" updated="20150615T185500Z">
+    <de-DE>Speichern</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Ribbon/Script/Write/Save As" key="Save As" itemid="{14E3F59F-838E-4649-BF9E-6A04F132648D}" fieldid="Header" updated="20141223T180707Z">
+    <de-DE>Speichern als...</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Ribbon/Script/Write/Save As" key="Save As" itemid="{14E3F59F-838E-4649-BF9E-6A04F132648D}" fieldid="__Display name" updated="20141223T180707Z">
+    <de-DE>Speichern als...</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Ribbon/Script/Write/Reload" key="Reload" itemid="{85E05ECD-6DF2-43D4-9D98-75552C221B23}" fieldid="Header" updated="20141223T180725Z">
+    <de-DE>Neu laden</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Ribbon/Script/Write/Reload" key="Reload" itemid="{85E05ECD-6DF2-43D4-9D98-75552C221B23}" fieldid="__Display name" updated="20141223T180725Z">
+    <de-DE>Neu laden</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Ribbon/Script/Script" key="Script" itemid="{FC5B9682-5BAD-4412-96EA-BB0C9AA457CF}" fieldid="Header" updated="20150621T155602Z">
+    <de-DE>Script-Ausführung</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Ribbon/Script/Script" key="Script" itemid="{FC5B9682-5BAD-4412-96EA-BB0C9AA457CF}" fieldid="__Display name" updated="20150621T155602Z">
+    <de-DE>Skript</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Ribbon/Script/Script/Execute" key="Execute" itemid="{F4A0BC54-AC8B-47EB-ACCB-E09F08D5C85C}" fieldid="Header" updated="20141223T180748Z">
+    <de-DE>Ausführen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Ribbon/Script/Script/Execute" key="Execute" itemid="{F4A0BC54-AC8B-47EB-ACCB-E09F08D5C85C}" fieldid="__Display name" updated="20141223T180748Z">
+    <de-DE>Ausführen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Ribbon/Script/Script/Execute Selection Small" key="Execute Selection Small" itemid="{50A2B82D-0B72-4614-AD51-A13E868FDDE4}" fieldid="Header" updated="20160126T143005Z">
+    <de-DE>Auswahl ausführen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Ribbon/Script/Script/Execute Selection Small" key="Execute Selection Small" itemid="{50A2B82D-0B72-4614-AD51-A13E868FDDE4}" fieldid="__Display name" updated="20160126T143005Z">
+    <de-DE>Auswahl ausführen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Ribbon/Script/Script/Debug Small" key="Debug Small" itemid="{1F2EBEF7-4AB7-477A-B2DD-1B6CAE8BDFE0}" fieldid="Header" updated="20160126T141834Z">
+    <de-DE>Debug</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Ribbon/Script/Script/Debug Small" key="Debug Small" itemid="{1F2EBEF7-4AB7-477A-B2DD-1B6CAE8BDFE0}" fieldid="__Display name" updated="20160126T141834Z">
+    <de-DE>Debug</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Ribbon/Script/Script/Abort" key="Abort" itemid="{5F4D54F3-B5B3-4BAC-92F1-8FFDFE6E7ADC}" fieldid="Header" updated="20160126T142810Z">
+    <de-DE>Abbrechen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Ribbon/Script/Script/Abort" key="Abort" itemid="{5F4D54F3-B5B3-4BAC-92F1-8FFDFE6E7ADC}" fieldid="__Display name" updated="20160126T142810Z">
+    <de-DE>Abbrechen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Ribbon/Script/Context" key="Context" itemid="{4C794DE3-FA37-46E2-AFEC-FD458211C11A}" fieldid="Header" updated="20150126T202922Z">
+    <de-DE>Kontext</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Ribbon/Script/Context" key="Context" itemid="{4C794DE3-FA37-46E2-AFEC-FD458211C11A}" fieldid="__Display name" updated="20150126T202922Z">
+    <de-DE>Kontext</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Ribbon/Script/Context/ActionsScripts" key="ActionsScripts" itemid="{FAFE4D11-CE8D-4875-ACF0-CCDF54DF46F9}" fieldid="__Display name" updated="20150128T100139Z">
+    <de-DE>Aktions-Skripte</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Ribbon/Script/Context/ActionsScripts/Context" key="Context" itemid="{C733DE04-FFA2-4DCB-8D18-18EB1CB898A3}" fieldid="Header" updated="20161017T115941Z">
+    <de-DE>Kontext</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Ribbon/Script/Context/ActionsScripts/Context" key="Context" itemid="{C733DE04-FFA2-4DCB-8D18-18EB1CB898A3}" fieldid="__Display name" updated="20161017T115941Z">
+    <de-DE>Kontext</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Ribbon/Script/Context/ActionsScripts/Session" key="Session" itemid="{0C784F54-2B46-4EE2-B0BA-72384125E123}" fieldid="Header" updated="20161017T120135Z">
+    <de-DE>Einmalige Sitzung</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Ribbon/Script/Context/ActionsScripts/Session" key="Session" itemid="{0C784F54-2B46-4EE2-B0BA-72384125E123}" fieldid="__Display name" updated="20161017T120135Z">
+    <de-DE>Sitzung</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Ribbon/Script/ContextEx" key="ContextEx" itemid="{2BF02911-1244-4AB8-A3C9-9BE70A8B51CD}" fieldid="Header" updated="20161017T112407Z">
+    <de-DE>UI Kontext</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Ribbon/Script/ContextEx" key="ContextEx" itemid="{2BF02911-1244-4AB8-A3C9-9BE70A8B51CD}" fieldid="__Display name" updated="20161017T112407Z">
+    <de-DE>UI Kontext</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Ribbon/Script/ContextEx/UserLanguageContextPanel" key="UserLanguageContextPanel" itemid="{3309A55F-C77C-44F3-9810-7CFEA36E8945}" fieldid="__Display name" updated="20161017T111638Z">
+    <de-DE>Benutzer / Sprache Kontext-Panel</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Ribbon/Script/ContextEx/UserLanguageContextPanel/Language" key="Language" itemid="{3939B85B-3A9B-45FA-8EFB-67AF84E0CF18}" fieldid="Header" updated="20161017T133903Z">
+    <de-DE>Sprache</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Ribbon/Script/ContextEx/UserLanguageContextPanel/Language" key="Language" itemid="{3939B85B-3A9B-45FA-8EFB-67AF84E0CF18}" fieldid="__Display name" updated="20161017T133903Z">
+    <de-DE>Sprache</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Ribbon/Script/ContextEx/UserLanguageContextPanel/User" key="User" itemid="{71044CE9-03D1-4D5C-81B5-854993686189}" fieldid="Header" updated="20161017T123145Z">
+    <de-DE>Benutzer</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Ribbon/Script/ContextEx/UserLanguageContextPanel/User" key="User" itemid="{71044CE9-03D1-4D5C-81B5-854993686189}" fieldid="__Display name" updated="20161017T123145Z">
+    <de-DE>Benutzer</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Ribbon/Script/Info" key="Info" itemid="{06C34C75-3F9D-4DA7-B435-16F96D79CD23}" fieldid="Header" updated="20160115T123554Z">
+    <de-DE>Info</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Ribbon/Script/Info/About" key="About" itemid="{E65BB045-81F6-444F-AE48-96E79E1E9262}" fieldid="Header" updated="20170309T120433Z">
+    <de-DE>Über</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Ribbon/Script/Info/About" key="About" itemid="{E65BB045-81F6-444F-AE48-96E79E1E9262}" fieldid="__Display name" updated="20170309T120433Z">
+    <de-DE>Über</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Ribbon/Settings" key="Settings" itemid="{40D0A766-25D1-4B84-B20C-8BE9F2E54D53}" fieldid="Header" updated="20150128T150406Z">
+    <de-DE>Einstellungen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Ribbon/Settings" key="Settings" itemid="{40D0A766-25D1-4B84-B20C-8BE9F2E54D53}" fieldid="__Display name" updated="20150128T150406Z">
+    <de-DE>Einstellungen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Ribbon/Settings/Preferences" key="Preferences" itemid="{58B6A738-B732-4855-B4EC-302B7BF61CB1}" fieldid="Header" updated="20150128T154538Z">
+    <de-DE>Voreinstellungen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Ribbon/Settings/Preferences" key="Preferences" itemid="{58B6A738-B732-4855-B4EC-302B7BF61CB1}" fieldid="__Display name" updated="20150128T154538Z">
+    <de-DE>Voreinstellungen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Ribbon/Settings/Preferences/Settings" key="Settings" itemid="{C6047CA6-0A24-4966-A9D8-E12BFCAA6FF6}" fieldid="Header" updated="20150128T145305Z">
+    <de-DE>Einstellungen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Ribbon/Settings/Preferences/Settings" key="Settings" itemid="{C6047CA6-0A24-4966-A9D8-E12BFCAA6FF6}" fieldid="__Display name" updated="20150128T145305Z">
+    <de-DE>Einstellungen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Ribbon/Settings/Integration" key="Integration" itemid="{EE616FC9-E971-40C6-B357-5EE53C2D0DAA}" fieldid="Header" updated="20150128T154546Z">
+    <de-DE>Integration</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Ribbon/Settings/Integration/Rebuild" key="Rebuild" itemid="{A3E22AA9-8160-43C4-B3E6-CF1CC35EA333}" fieldid="Header" updated="20150613T191623Z">
+    <de-DE>Alles neu bauen...</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Ribbon/Settings/Integration/Rebuild" key="Rebuild" itemid="{A3E22AA9-8160-43C4-B3E6-CF1CC35EA333}" fieldid="__Display name" updated="20150613T191623Z">
+    <de-DE>Neu bauen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Ribbon/Settings/Current Script" key="Current Script" itemid="{D38E07A3-C814-43BE-9549-312BC6D560DB}" fieldid="Header" updated="20151229T040208Z">
+    <de-DE>Skript</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Ribbon/Settings/Current Script" key="Current Script" itemid="{D38E07A3-C814-43BE-9549-312BC6D560DB}" fieldid="__Display name" updated="20151229T040208Z">
+    <de-DE>Aktuelles Skript</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Ribbon/Settings/Current Script/Runtime" key="Runtime" itemid="{EB294A95-86B6-4664-9175-548446AF746E}" fieldid="Header" updated="20150904T111522Z">
+    <de-DE>Laufzeit</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Ribbon/Settings/Current Script/Runtime" key="Runtime" itemid="{EB294A95-86B6-4664-9175-548446AF746E}" fieldid="__Display name" updated="20150904T111522Z">
+    <de-DE>Laufzeit</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Ribbon/Plugins" key="Plugins" itemid="{A76FB1C3-4D26-4623-BB7D-8A1A0D1AE08C}" fieldid="Header" updated="20150622T141022Z">
+    <de-DE>Plugins</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Ribbon/Plugins/Plugin/fake" key="fake" itemid="{6B151C2E-9017-4BC7-84C5-692EE671BECA}" fieldid="Header" updated="20150624T202702Z">
+    <de-DE>Fake</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Ribbon/Plugins/Plugin/fake" key="fake" itemid="{6B151C2E-9017-4BC7-84C5-692EE671BECA}" fieldid="__Display name" updated="20150624T202702Z">
+    <de-DE>Fake</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Ribbon/Debug" key="Debug" itemid="{A7427E18-C044-4AEE-863F-99E44F82F2A6}" fieldid="Header" updated="20150911T075726Z">
+    <de-DE>Debug</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Ribbon/Debug/Script" key="Script" itemid="{DB0A30D6-4FAE-47E0-9C02-75A758B75547}" fieldid="Header" updated="20150911T075805Z">
+    <de-DE>Script-Ausführung</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Ribbon/Debug/Script" key="Script" itemid="{DB0A30D6-4FAE-47E0-9C02-75A758B75547}" fieldid="__Display name" updated="20150911T075805Z">
+    <de-DE>Skript</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Ribbon/Debug/Script/Continue" key="Continue" itemid="{9989ECE2-E790-4CCC-83B8-F4675E9BF22E}" fieldid="Header" updated="20150914T222914Z">
+    <de-DE>Fortsetzen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Ribbon/Debug/Script/Continue" key="Continue" itemid="{9989ECE2-E790-4CCC-83B8-F4675E9BF22E}" fieldid="__Display name" updated="20150914T222914Z">
+    <de-DE>Fortsetzen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Ribbon/Debug/Script/Step into" key="Step into" itemid="{5E1F7F79-7E42-4569-8087-F2CB44B84B69}" fieldid="Header" updated="20150914T223857Z">
+    <de-DE>Einsteigen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Ribbon/Debug/Script/Step into" key="Step into" itemid="{5E1F7F79-7E42-4569-8087-F2CB44B84B69}" fieldid="__Display name" updated="20150914T223857Z">
+    <de-DE>Einsteigen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Ribbon/Debug/Script/Step out" key="Step out" itemid="{E36C7E41-6C1C-4EB1-8C9E-7F77A6CFE38A}" fieldid="Header" updated="20150914T224135Z">
+    <de-DE>Aussteigen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Ribbon/Debug/Script/Step out" key="Step out" itemid="{E36C7E41-6C1C-4EB1-8C9E-7F77A6CFE38A}" fieldid="__Display name" updated="20150914T224135Z">
+    <de-DE>Aussteigen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Ribbon/Debug/Script/Step Over" key="Step Over" itemid="{15F7E60C-799A-4123-B9F0-ABA3D7323589}" fieldid="Header" updated="20150914T223830Z">
+    <de-DE>Überspringen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Ribbon/Debug/Script/Step Over" key="Step Over" itemid="{15F7E60C-799A-4123-B9F0-ABA3D7323589}" fieldid="__Display name" updated="20150914T223830Z">
+    <de-DE>Überspringen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Ribbon/Debug/Script/Stop" key="Stop" itemid="{E4BCB959-8C3A-4218-81E2-FE7FF7593611}" fieldid="Header" updated="20151127T093320Z">
+    <de-DE>Stop</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Ribbon/Debug/Script/Immediate Window" key="Immediate Window" itemid="{6D174099-70D6-4246-8E39-298BBF832186}" fieldid="Header" updated="20150917T082107Z">
+    <de-DE>Direktfenster</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellIse/Ribbon/Debug/Script/Immediate Window" key="Immediate Window" itemid="{6D174099-70D6-4246-8E39-298BBF832186}" fieldid="__Display name" updated="20150917T082107Z">
+    <de-DE>Direktfenster</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellListView" key="PowerShellListView" itemid="{EC050E47-CB0E-481C-B299-ABD275258FC6}" fieldid="Tool tip" updated="20151129T132109Z">
+    <de-DE>Zeige Ergebnisse von PowerShell</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellListView" key="PowerShellListView" itemid="{EC050E47-CB0E-481C-B299-ABD275258FC6}" fieldid="Display name" updated="20151129T132109Z">
+    <de-DE>Listen Ansicht</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellListView" key="PowerShellListView" itemid="{EC050E47-CB0E-481C-B299-ABD275258FC6}" fieldid="__Display name" updated="20151129T132109Z">
+    <de-DE>PowerShell Listen-Ansicht</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellListView/Ribbon/Results" key="Results" itemid="{9410D5DD-186B-4CD7-ACB2-D2F3A464EFFF}" fieldid="Header" updated="20130512T184946Z">
+    <de-DE>Schreiben</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellListView/Ribbon/Results" key="Results" itemid="{9410D5DD-186B-4CD7-ACB2-D2F3A464EFFF}" fieldid="__Display name" updated="20130512T184946Z">
+    <de-DE>Ergebnisse</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellListView/Ribbon/Results/Download" key="Download" itemid="{5EB6C3C3-2D50-4D2E-84A7-296253A19BA7}" fieldid="Header" updated="20130908T071659Z">
+    <de-DE>Export</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellListView/Ribbon/Results/Download" key="Download" itemid="{5EB6C3C3-2D50-4D2E-84A7-296253A19BA7}" fieldid="__Display name" updated="20130908T071659Z">
+    <de-DE>Export</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellListView/Ribbon/Results/Download/ExportScripts" key="ExportScripts" itemid="{038399AD-5719-4ACB-9DFE-89756534EF90}" fieldid="__Display name" updated="20150104T192451Z">
+    <de-DE>Skripte exportieren</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellListView/Ribbon/Results/Filter" key="Filter" itemid="{90DC2831-3508-415F-8AF3-40160577AC47}" fieldid="Header" updated="20130908T072348Z">
+    <de-DE>Filter</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellListView/Ribbon/Results/Filter/Filter" key="Filter" itemid="{633D0055-5E83-495C-8D07-D882C062E5EB}" fieldid="Header" updated="20130908T084458Z">
+    <de-DE>Filter</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellListView/Ribbon/Results/Page" key="Page" itemid="{72ABEE96-FAC4-4C83-906C-BA75B2D794F0}" fieldid="Header" updated="20130908T214204Z">
+    <de-DE>Seite</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellListView/Ribbon/Results/Page" key="Page" itemid="{72ABEE96-FAC4-4C83-906C-BA75B2D794F0}" fieldid="__Display name" updated="20130908T214204Z">
+    <de-DE>Seite</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellListView/Ribbon/Results/Page/First" key="First" itemid="{F2E23628-BD21-40CB-8FF4-72DBE642BDD0}" fieldid="Header" updated="20130908T215516Z">
+    <de-DE>Erstes</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellListView/Ribbon/Results/Page/First" key="First" itemid="{F2E23628-BD21-40CB-8FF4-72DBE642BDD0}" fieldid="__Display name" updated="20130908T215516Z">
+    <de-DE>Erstes</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellListView/Ribbon/Results/Page/Last" key="Last" itemid="{7BFEE1F0-9778-4A33-96B9-43BF0435C204}" fieldid="Header" updated="20130908T215527Z">
+    <de-DE>Letztes</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellListView/Ribbon/Results/Page/Last" key="Last" itemid="{7BFEE1F0-9778-4A33-96B9-43BF0435C204}" fieldid="__Display name" updated="20130908T215527Z">
+    <de-DE>Letztes</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellListView/Ribbon/Results/Page/Previous" key="Previous" itemid="{FBAC8C25-3157-4017-9CB3-CE15A15BF716}" fieldid="Header" updated="20130908T215536Z">
+    <de-DE>Vorheriges</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellListView/Ribbon/Results/Page/Previous" key="Previous" itemid="{FBAC8C25-3157-4017-9CB3-CE15A15BF716}" fieldid="__Display name" updated="20130908T215536Z">
+    <de-DE>Vorheriges</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellListView/Ribbon/Results/Page/Next" key="Next" itemid="{CF9C093F-2D19-4965-A5AC-CFDC33D08920}" fieldid="Header" updated="20130908T215544Z">
+    <de-DE>Nächstes</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellListView/Ribbon/Results/Page/Next" key="Next" itemid="{CF9C093F-2D19-4965-A5AC-CFDC33D08920}" fieldid="__Display name" updated="20130908T215544Z">
+    <de-DE>Nächstes</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellListView/Ribbon/Results/Actions" key="Actions" itemid="{FADA4300-E388-4E73-A9AB-4B766B7536EB}" fieldid="Header" updated="20130915T114019Z">
+    <de-DE>Aktionen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellListView/Ribbon/Results/Actions" key="Actions" itemid="{FADA4300-E388-4E73-A9AB-4B766B7536EB}" fieldid="__Display name" updated="20130915T114019Z">
+    <de-DE>Aktionen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShellListView/Ribbon/Results/Actions/ActionsScripts" key="ActionsScripts" itemid="{D3EBF6CC-7E31-41C3-BA21-FE3C019CBFC5}" fieldid="__Display name" updated="20150104T192506Z">
+    <de-DE>Aktionsskripte</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShell Console" key="PowerShell Console" itemid="{C6771AF0-903F-432C-8595-E84FE79D8B6C}" fieldid="Tool tip" updated="20161122T032534Z">
+    <de-DE>CLI interface zu deinem Inhalt</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShell Console" key="PowerShell Console" itemid="{C6771AF0-903F-432C-8595-E84FE79D8B6C}" fieldid="Display name" updated="20161122T032534Z">
+    <de-DE>PowerShell Konsole</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShell Console" key="PowerShell Console" itemid="{C6771AF0-903F-432C-8595-E84FE79D8B6C}" fieldid="__Display name" updated="20161122T032534Z">
+    <de-DE>PowerShell Konsole</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShell Runner" key="PowerShell Runner" itemid="{EE8B0A19-8710-4AA2-9C21-710BC4AE8265}" fieldid="Tool tip" updated="20151129T132133Z">
+    <de-DE>PowerShell Script Runner</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Applications/PowerShell/PowerShell Runner" key="PowerShell Runner" itemid="{EE8B0A19-8710-4AA2-9C21-710BC4AE8265}" fieldid="Display name" updated="20151129T132133Z">
+    <de-DE>PowerShell Runner</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Documents and settings/All users/Start menu/Right/PowerShell Console" key="PowerShell Console" itemid="{1B72C2A5-EAF1-47CE-86FF-4E3C42F1DD84}" fieldid="__Display name" updated="20141227T151327Z">
+    <de-DE>PowerShell Konsole</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Documents and settings/All users/Start menu/Right/PowerShell Toolbox" key="PowerShell Toolbox" itemid="{743877AB-3556-4A61-926D-F0DEDE280D72}" fieldid="Tool tip" updated="20170529T132925Z">
+    <de-DE>PowerShell Lösungen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Documents and settings/All users/Start menu/Right/PowerShell Toolbox" key="PowerShell Toolbox" itemid="{743877AB-3556-4A61-926D-F0DEDE280D72}" fieldid="Display name" updated="20170529T132925Z">
+    <de-DE>PowerShell Toolbox</de-DE>
+  </phrase>
+  <phrase path="/sitecore/content/Documents and settings/All users/Start menu/Right/Development Tools/PowerShell ISE" key="PowerShell ISE" itemid="{10052E00-DF82-4271-93C4-994F9D4D6B80}" fieldid="Display name" updated="20141227T154310Z">
+    <de-DE>PowerShell ISE</de-DE>
+  </phrase>
+  <phrase path="/sitecore/layout/Layouts/Applications/PowerShell/PowerShell Console" key="PowerShell Console" itemid="{A2EB766C-B606-4F6E-8697-039C1C5A7CC1}" fieldid="__Display name" updated="20170605T102136Z">
+    <de-DE>PowerShell Konsole</de-DE>
+  </phrase>
+  <phrase path="/sitecore/layout/Layouts/Applications/PowerShell/PowerShell ListView" key="PowerShell ListView" itemid="{DE28D8F7-D47B-4A97-98FC-B5F4F2FBBBB4}" fieldid="__Display name" updated="20170605T102150Z">
+    <de-DE>PowerShell Listenansicht</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Dictionary/PowerShell/C/Context" key="Context" itemid="{6B4E4627-40C7-464E-9FB0-54350FBD3850}" fieldid="Phrase" updated="20160826T130331Z">
+    <de-DE>Kontext</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Dictionary/PowerShell/C/Context" key="Context" itemid="{6B4E4627-40C7-464E-9FB0-54350FBD3850}" fieldid="__Display name" updated="20160826T130331Z">
+    <de-DE />
+  </phrase>
+  <phrase path="/sitecore/system/Dictionary/PowerShell/C/Create a new module" key="Create a new module" itemid="{AFF0EAF3-A905-460A-B005-BDF4772E7640}" fieldid="Phrase" updated="20160826T082845Z">
+    <de-DE>Ein neues Modul erstellen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Dictionary/PowerShell/D/Done" key="Done" itemid="{BB17EAFF-8290-4685-8A1E-DC46736A07D5}" fieldid="Phrase" updated="20160826T131652Z">
+    <de-DE>Fertig!</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Dictionary/PowerShell/D/DropList control cannot render items from the database 0 because it its not the same as 1 which is" key="DropList control cannot render items from the database 0 because it its not the same as 1 which is" itemid="{0924C245-B5F3-47F2-AC9A-C84D4DB14E61}" fieldid="Phrase" updated="20160830T085151Z">
+    <de-DE>Das DropList-Control kann keine Items aus der Datenbank '{0}' darstellen, weil es nicht das gleiche wie '{1}' ist, welches die aktuelle Content-Datenbank ist.</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Dictionary/PowerShell/E/Edit rule" key="Edit rule" itemid="{AF708F4F-5ADF-452B-BB9B-5EB6A740729A}" fieldid="Phrase" updated="20160826T130331Z">
+    <de-DE>Regel bearbeiten</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Dictionary/PowerShell/E/Error while rendering this editor" key="Error while rendering this editor" itemid="{61E519DA-83FA-40F4-9895-2C04CBBFFA65}" fieldid="Phrase" updated="20160826T130331Z">
+    <de-DE>Fehler beim Rendern dieses Editors</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Dictionary/PowerShell/I/Invert selection" key="Invert selection" itemid="{40CBB383-A9D6-4A30-AA70-113D05757397}" fieldid="Phrase" updated="20160826T125745Z">
+    <de-DE>Auswahl umkehren</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Dictionary/PowerShell/M/Most Recently opened scripts" key="Most Recently opened scripts" itemid="{20C42397-EF41-4749-9965-A8D3964097E6}" fieldid="Phrase" updated="20160826T130331Z">
+    <de-DE>Zuletzt geöffnete Skripte:</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Dictionary/PowerShell/N/No scripts foundDo you need to re-index your databases" key="No scripts foundDo you need to re-index your databases" itemid="{45F3918E-201B-4DE3-9E9D-19A9517AFC6B}" fieldid="Phrase" updated="20160826T130331Z">
+    <de-DE>Keine Skripte gefunden... Müssen Sie Ihre Datenbanken neu indizieren?</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Dictionary/PowerShell/N/none" key="none" itemid="{8E0B372F-2899-42DF-A4FF-56632DE674BC}" fieldid="Phrase" updated="20160826T130331Z">
+    <de-DE>keiner</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Dictionary/PowerShell/O/Open Script" key="Open Script" itemid="{84C86B9B-416A-4619-92F7-ECE62262FF6E}" fieldid="Phrase" updated="20160826T130331Z">
+    <de-DE>Öffne Skript</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Dictionary/PowerShell/O/Operation" key="Operation" itemid="{B5C9C506-4EC0-4EB1-AF2B-15CF93CC9C70}" fieldid="Phrase" updated="20160826T130331Z">
+    <de-DE>Operation:</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Dictionary/PowerShell/P/Pick the settings for the module that you will be creating" key="Pick the settings for the module that you will be creating" itemid="{8AC68939-310B-41F5-84CF-C817C8E5A34B}" fieldid="Phrase" updated="20160826T083010Z">
+    <de-DE>Wählen Sie die Einstellungen für das zu erstellende Modul und die Integrationspunkte aus.</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Dictionary/PowerShell/P/Please wait 0" key="Please wait 0" itemid="{10FECDC6-B129-455C-8B9F-EB3B89F24150}" fieldid="Phrase" updated="20160826T130331Z">
+    <de-DE>Bitte warten, {0}</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Dictionary/PowerShell/R/remaining" key="remaining" itemid="{D7CBE4BF-8AB6-44C2-B399-589AD6648FE3}" fieldid="Phrase" updated="20160826T130331Z">
+    <de-DE>verbleibend</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Dictionary/PowerShell/R/Running script" key="Running script" itemid="{113BD007-EA40-4D78-9498-ABD8BBAB9A6E}" fieldid="Phrase" updated="20160826T130331Z">
+    <de-DE>Laufendes Skript...</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Dictionary/PowerShell/S/Script defined 0" key="Script defined 0" itemid="{932E0C3D-028E-4673-B80E-C7EB6C32BCA3}" fieldid="Phrase" updated="20160830T085150Z">
+    <de-DE>Skriptdefiniert: {0}</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Dictionary/PowerShell/S/Script finished - no results to display" key="Script finished - no results to display" itemid="{F50C8024-5354-4F9B-8F1E-917D62528F90}" fieldid="Phrase" updated="20160826T130331Z">
+    <de-DE>Skript beendet - keine Ergebnisse zur Anzeige.</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Dictionary/PowerShell/S/Script name to search for - prefix with eg master to narrow to specific database" key="Script name to search for - prefix with eg master to narrow to specific database" itemid="{688F98E9-6406-4C67-8AE6-F6A264E0DF44}" fieldid="Phrase" updated="20160826T130331Z">
+    <de-DE>Zu suchender Skriptname - Präfix z. B. 'master:' auf bestimmte Datenbank beschränken</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Dictionary/PowerShell/S/Scripts matching 0 in 1 database" key="Scripts matching 0 in 1 database" itemid="{961629F0-E691-48F0-A77B-B2F350C365EA}" fieldid="Phrase" updated="20160826T130331Z">
+    <de-DE>Passende Skripte: '{0}' in '{1} *' Datenbank</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Dictionary/PowerShell/S/Scripts matching 0 in all databases" key="Scripts matching 0 in all databases" itemid="{BB233C12-42AC-4C20-B1B1-01469D758435}" fieldid="Phrase" updated="20160826T130331Z">
+    <de-DE>Passende Skripte: '{0}' in allen Datenbanken</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Dictionary/PowerShell/S/Select Script Library" key="Select Script Library" itemid="{5CD9DE2B-CBB6-4DE5-BAE7-6FA464F9E802}" fieldid="Phrase" updated="20160826T130331Z">
+    <de-DE>Skriptbibliothek auswählen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Dictionary/PowerShell/S/Select the Library that you want to save your script to" key="Select the Library that you want to save your script to" itemid="{2CE2707D-0E00-40DF-9B5F-0B44514E4AC3}" fieldid="Phrase" updated="20160826T130331Z">
+    <de-DE>Wählen Sie die Bibliothek aus, in der Sie das Skript speichern möchten.</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Dictionary/PowerShell/S/Select the script item that you want to open" key="Select the script item that you want to open" itemid="{228B7308-1D19-40A1-8A14-67852EE17866}" fieldid="Phrase" updated="20160826T130331Z">
+    <de-DE>Wählen Sie das Skriptelement aus, das Sie öffnen möchten.</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Dictionary/PowerShell/S/Session" key="Session" itemid="{8E3291EE-FEE9-4542-8442-555D9A7BDD67}" fieldid="Phrase" updated="20160826T130331Z">
+    <de-DE>Sitzung</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Dictionary/PowerShell/S/Show copyright" key="Show copyright" itemid="{64398AE9-580B-4597-907B-CF979E64646A}" fieldid="Phrase" updated="20160826T130331Z">
+    <de-DE>Copyright anzeigen...</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Dictionary/PowerShell/S/Single execution" key="Single execution" itemid="{3B60BB2D-A9B5-4E70-B2FC-53B9B96F218C}" fieldid="Phrase" updated="20160826T130331Z">
+    <de-DE>Einzelne Ausführung</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Dictionary/PowerShell/S/Status" key="Status" itemid="{283BAB5C-C232-49BC-B9B8-16AA18CE8AE6}" fieldid="Phrase" updated="20160826T130331Z">
+    <de-DE>Status:</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Dictionary/PowerShell/T/The item is not a script" key="The item is not a script" itemid="{C7E34A15-49DB-477A-AC58-48BB27AE124A}" fieldid="Phrase" updated="20160826T130331Z">
+    <de-DE>Das Item ist kein Skript.</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Dictionary/PowerShell/T/Time remaining" key="Time remaining" itemid="{CF7F6B31-DD3B-4EB2-BBF1-29F3D350FEEE}" fieldid="Phrase" updated="20160826T130331Z">
+    <de-DE>Verbleibende Zeit:</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Dictionary/PowerShell/V/View script results" key="View script results" itemid="{47635A88-2E30-4FF0-8D84-D6199760261E}" fieldid="Phrase" updated="20160826T130331Z">
+    <de-DE>Skriptergebnisse anzeigen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Dictionary/PowerShell/V/View script results and errors" key="View script results and errors" itemid="{AC5A3550-BEA8-4F94-ABB7-E884EE49C7CC}" fieldid="Phrase" updated="20160826T130331Z">
+    <de-DE>Skriptergebnisse und Fehler anzeigen</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Dictionary/PowerShell/W/Working" key="Working" itemid="{CA6D3559-F12F-4429-BED6-EBB231307347}" fieldid="Phrase" updated="20160826T130331Z">
+    <de-DE>Arbeite</de-DE>
+  </phrase>
+  <phrase path="/sitecore/system/Dictionary/PowerShell/X/Xml Control 0 not found" key="Xml Control 0 not found" itemid="{824E66F6-5A28-474C-BBDD-53C3488B2DA8}" fieldid="Phrase" updated="20160826T130331Z">
+    <de-DE>Xml Control "{0}" nicht gefunden</de-DE>
+  </phrase>
+</sitecore>
