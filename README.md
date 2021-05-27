@@ -24,6 +24,9 @@ Choose the correct database corresponding to the file:
 
 Hit the "Import"-Button and the language will be imported.
 
+The result looks like this:
+![image Import Languages Dialog](./images/SPE_german.png)
+
 
 
 
